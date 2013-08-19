@@ -1,3 +1,32 @@
 {
-  "api": []
+  "api": [
+    {
+      "id": "1359837741121",
+      "path": "/pulse",
+      "method": "GET",
+      "summary": "Pulse check",
+      "parameters": [],
+      "result": {
+        "status": "ok"
+      },
+      "error": {},
+      "response": "result",
+      "delay": 1000
+    },
+    {
+      "id": "1359838172290",
+      "path": "/status/01012013/0001",
+      "method": "GET",
+      "summary": "",
+      "parameters": [],
+      "result": {
+        "_id": "0001",
+        "description": "onsite, mongodb scripting",
+        "type": "client"
+      },
+      "error": {},
+      "response": "result",
+      "delay": 1000
+    }
+  ]
 }
