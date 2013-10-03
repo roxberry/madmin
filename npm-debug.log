@@ -1,0 +1,1394 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@1.2.10
+3 info using node@v0.8.19
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose read json C:\Users\Mark\Documents\GitHub\madmin\package.json
+6 verbose readDependencies using package.json deps
+7 verbose install where, deps [ 'C:\\Users\\Mark\\Documents\\GitHub\\madmin',
+7 verbose install   [ 'hbs',
+7 verbose install     'express',
+7 verbose install     'winston',
+7 verbose install     'node-promise',
+7 verbose install     'optimist',
+7 verbose install     'jasmine-node',
+7 verbose install     'sinon',
+7 verbose install     'requirejs',
+7 verbose install     'jquery',
+7 verbose install     'amdefine',
+7 verbose install     'proxyquire',
+7 verbose install     'supertest',
+7 verbose install     'grunt',
+7 verbose install     'grunt-jasmine-node',
+7 verbose install     'grunt-contrib-jasmine',
+7 verbose install     'grunt-template-jasmine-requirejs',
+7 verbose install     'grunt-contrib-jshint',
+7 verbose install     'grunt-contrib-watch',
+7 verbose install     'grunt-jasmine-task',
+7 verbose install     'temporary' ] ]
+8 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\package.json
+9 info preinstall madmin@0.1.0
+10 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\amdefine\package.json
+11 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\express\package.json
+12 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt\package.json
+13 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-jasmine\package.json
+14 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-jshint\package.json
+15 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-watch\package.json
+16 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-jasmine-node\package.json
+17 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-jasmine-task\package.json
+18 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-template-jasmine-requirejs\package.json
+19 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\hbs\package.json
+20 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jasmine-node\package.json
+21 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+22 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\node-promise\package.json
+23 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\optimist\package.json
+24 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\proxyquire\package.json
+25 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\requirejs\package.json
+26 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\sinon\package.json
+27 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\supertest\package.json
+28 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\temporary\package.json
+29 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\winston\package.json
+30 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\package.json
+31 verbose readDependencies using package.json deps
+32 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\amdefine\package.json
+33 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\express\package.json
+34 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt\package.json
+35 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-jasmine\package.json
+36 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-jshint\package.json
+37 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-contrib-watch\package.json
+38 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-jasmine-node\package.json
+39 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-jasmine-task\package.json
+40 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\grunt-template-jasmine-requirejs\package.json
+41 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\hbs\package.json
+42 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jasmine-node\package.json
+43 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+44 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\node-promise\package.json
+45 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\optimist\package.json
+46 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\proxyquire\package.json
+47 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\requirejs\package.json
+48 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\sinon\package.json
+49 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\supertest\package.json
+50 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\temporary\package.json
+51 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\winston\package.json
+52 verbose already installed skipping hbs@>=2.0.1 C:\Users\Mark\Documents\GitHub\madmin
+53 verbose already installed skipping express@>=3.0 C:\Users\Mark\Documents\GitHub\madmin
+54 verbose already installed skipping winston@~0.6.2 C:\Users\Mark\Documents\GitHub\madmin
+55 verbose already installed skipping node-promise@0.5.4 C:\Users\Mark\Documents\GitHub\madmin
+56 verbose already installed skipping optimist@>=0.3.5 C:\Users\Mark\Documents\GitHub\madmin
+57 verbose already installed skipping jasmine-node@* C:\Users\Mark\Documents\GitHub\madmin
+58 verbose already installed skipping sinon@1.5.0 C:\Users\Mark\Documents\GitHub\madmin
+59 verbose already installed skipping requirejs@~2.1.1 C:\Users\Mark\Documents\GitHub\madmin
+60 verbose cache add [ 'jquery@~1.8.2', null ]
+61 verbose cache add name=undefined spec="jquery@~1.8.2" args=["jquery@~1.8.2",null]
+62 verbose parsed url { pathname: 'jquery@~1.8.2',
+62 verbose parsed url   path: 'jquery@~1.8.2',
+62 verbose parsed url   href: 'jquery@~1.8.2' }
+63 verbose cache add name="jquery" spec="~1.8.2" args=["jquery","~1.8.2"]
+64 verbose parsed url { pathname: '~1.8.2', path: '~1.8.2', href: '~1.8.2' }
+65 verbose addNamed [ 'jquery', '~1.8.2' ]
+66 verbose addNamed [ null, '>=1.8.2- <1.9.0-' ]
+67 verbose already installed skipping amdefine@>=0.0.4 C:\Users\Mark\Documents\GitHub\madmin
+68 verbose already installed skipping proxyquire@>=0.3.2 C:\Users\Mark\Documents\GitHub\madmin
+69 verbose already installed skipping supertest@0.5.1 C:\Users\Mark\Documents\GitHub\madmin
+70 verbose already installed skipping grunt@~0.3.17 C:\Users\Mark\Documents\GitHub\madmin
+71 verbose already installed skipping grunt-jasmine-node@>=0.0.5 C:\Users\Mark\Documents\GitHub\madmin
+72 verbose already installed skipping grunt-contrib-jasmine@~0.3.0rc5 C:\Users\Mark\Documents\GitHub\madmin
+73 verbose already installed skipping grunt-template-jasmine-requirejs@~0.1.0 C:\Users\Mark\Documents\GitHub\madmin
+74 silly lockFile 2982a687-jquery-1-8-2 jquery@~1.8.2
+75 verbose lock jquery@~1.8.2 C:\Users\Mark\AppData\Roaming\npm-cache\2982a687-jquery-1-8-2.lock
+76 silly addNameRange { name: 'jquery', range: '>=1.8.2- <1.9.0-', hasData: false }
+77 verbose url raw jquery
+78 verbose url resolving [ 'https://registry.npmjs.org/', './jquery' ]
+79 verbose url resolved https://registry.npmjs.org/jquery
+80 info trying registry request attempt 1 at 16:26:07
+81 verbose etag "49KINBZ8VDX092ET4BKMUJVWE"
+82 http GET https://registry.npmjs.org/jquery
+83 verbose already installed skipping grunt-contrib-jshint@~0.1.0 C:\Users\Mark\Documents\GitHub\madmin
+84 verbose already installed skipping grunt-contrib-watch@~0.1.4 C:\Users\Mark\Documents\GitHub\madmin
+85 verbose already installed skipping grunt-jasmine-task@~0.2.3 C:\Users\Mark\Documents\GitHub\madmin
+86 verbose already installed skipping temporary@0.0.5 C:\Users\Mark\Documents\GitHub\madmin
+87 http 304 https://registry.npmjs.org/jquery
+88 silly registry.get cb [ 304,
+88 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+88 silly registry.get     etag: '"49KINBZ8VDX092ET4BKMUJVWE"',
+88 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:11 GMT',
+88 silly registry.get     'content-length': '0' } ]
+89 verbose etag jquery from cache
+90 silly addNameRange number 2 { name: 'jquery', range: '>=1.8.2- <1.9.0-', hasData: true }
+91 silly addNameRange versions [ 'jquery',
+91 silly addNameRange   [ '1.5.1', '1.6.2', '1.6.3', '1.7.2', '1.7.3', '1.8.2', '1.8.3' ] ]
+92 verbose addNamed [ 'jquery', '1.8.3' ]
+93 verbose addNamed [ '1.8.3', '1.8.3' ]
+94 silly lockFile c39883fe-jquery-1-8-3 jquery@1.8.3
+95 verbose lock jquery@1.8.3 C:\Users\Mark\AppData\Roaming\npm-cache\c39883fe-jquery-1-8-3.lock
+96 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package\package.json
+97 silly lockFile c39883fe-jquery-1-8-3 jquery@1.8.3
+98 silly lockFile c39883fe-jquery-1-8-3 jquery@1.8.3
+99 silly lockFile 2982a687-jquery-1-8-2 jquery@~1.8.2
+100 silly lockFile 2982a687-jquery-1-8-2 jquery@~1.8.2
+101 silly resolved [ { name: 'jquery',
+101 silly resolved     description: 'jQuery: The Write Less, Do More, JavaScript Library (packaged for Node.JS)',
+101 silly resolved     version: '1.8.3',
+101 silly resolved     url: 'http://jquery.com',
+101 silly resolved     homepage: 'https://github.com/coolaj86/node-jquery',
+101 silly resolved     author: { name: 'James Morrin', email: 'treasonx@gmail.com' },
+101 silly resolved     repository:
+101 silly resolved      { type: 'git',
+101 silly resolved        url: 'git://github.com/coolaj86/node-jquery.git' },
+101 silly resolved     bugs: { url: 'https://github.com/coolaj86/node-jquery/issues' },
+101 silly resolved     licenses: [ [Object] ],
+101 silly resolved     main: 'lib/node-jquery',
+101 silly resolved     engines: { node: '>=0.6' },
+101 silly resolved     scripts: { test: 'grunt test' },
+101 silly resolved     dependencies:
+101 silly resolved      { jsdom: '~0.2.14',
+101 silly resolved        htmlparser: '1.7.6',
+101 silly resolved        xmlhttprequest: '~1.4.2',
+101 silly resolved        location: '0.0.1',
+101 silly resolved        navigator: '~1.0.1',
+101 silly resolved        contextify: '~0.1.3' },
+101 silly resolved     devDependencies: { grunt: '~0.3.8', nodeunit: '~0.7.4' },
+101 silly resolved     keywords: [ 'util', 'dom', 'jquery' ],
+101 silly resolved     readme: 'DOES NOT WORK ON WINDOWS\n====\nMany people are having problems getting this module to work on windows. The\nfailure has to do with building contextify on window. It seems to be a windows\nenvironment issue. I don\'t have access to a windows machine so I cannot explore\nworking through the windows install process. If you figure out how to build\n[contextify](https://github.com/brianmcd/contextify) on windows please send me working instructions!\n\nNPM module jQuery is an EnderJS package. \n====\nplease use `npm install jquery` not `npm install jQuery`\n\n\nnode-jQuery\n====\n\nA stupid-simple wrapper over jQuery for  Node.JS (server). Currently 1.7.2.\n\nNode.JS\n---\n```\n    npm install jquery\n\n    var $ = require(\'jquery\');\n```\n\nExamples\n---\n```javascript\n    $("<h1>test passes</h1>").appendTo("body");\n    console.log($("body").html());\n```\n\nIn Node.JS you may also create separate window instances\n\n```javascript\n    var jsdom = require(\'jsdom\').jsdom\n      , myWindow = jsdom().createWindow()\n      , $ = require(\'jquery\')\n      , jq = require(\'jquery\').create()\n      , jQuery = require(\'jquery\').create(myWindow)\n      ;\n\n    $("<h1>test passes</h1>").appendTo("body");\n    console.log($("body").html());\n\n    jq("<h2>other test passes</h2>").appendTo("body");\n    console.log(jq("body").html());\n\n    jQuery("<h3>third test passes</h3>").appendTo("body");\n    console.log(jQuery("body").html());\n```\n\nOutput:\n\n```html\n    <h1>test passes</h1>\n    <h2>other test passes</h2>\n    <h3>third test passes</h3>\n```\n\nJSONP Example\n----\n\n```javascript\n    var $ = require(\'jquery\');\n\n    $.getJSON(\'http://twitter.com/status/user_timeline/treason.json?count=10&callback=?\',function(data) {\n      console.log(data);\n    });\n```\n\n',
+101 silly resolved     readmeFilename: 'README.md',
+101 silly resolved     _id: 'jquery@1.8.3',
+101 silly resolved     _from: 'jquery@~1.8.2' } ]
+102 info install jquery@1.8.3 into C:\Users\Mark\Documents\GitHub\madmin
+103 info installOne jquery@1.8.3
+104 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package\package.json
+105 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery unbuild
+106 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+107 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package.tgz
+108 silly lockFile f122f086-itHub-madmin-node-modules-jquery C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+109 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery C:\Users\Mark\AppData\Roaming\npm-cache\f122f086-itHub-madmin-node-modules-jquery.lock
+110 silly lockFile 6df7b5db-m-cache-jquery-1-8-3-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package.tgz
+111 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\6df7b5db-m-cache-jquery-1-8-3-package-tgz.lock
+112 silly gunzTarPerm modes [ '755', '644' ]
+113 silly gunzTarPerm extractEntry package.json
+114 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+115 silly gunzTarPerm extractEntry .npmignore
+116 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+117 silly gunzTarPerm extractEntry README.md
+118 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+119 silly gunzTarPerm extractEntry grunt.js
+120 silly gunzTarPerm modified mode [ 'grunt.js', 438, 420 ]
+121 silly gunzTarPerm extractEntry lib/node-jquery.js
+122 silly gunzTarPerm modified mode [ 'lib/node-jquery.js', 438, 420 ]
+123 silly gunzTarPerm extractEntry LICENSE-MIT
+124 silly gunzTarPerm modified mode [ 'LICENSE-MIT', 438, 420 ]
+125 silly gunzTarPerm extractEntry src/wrapper.js
+126 silly gunzTarPerm modified mode [ 'src/wrapper.js', 438, 420 ]
+127 silly gunzTarPerm extractEntry test/core.js
+128 silly gunzTarPerm modified mode [ 'test/core.js', 438, 420 ]
+129 silly gunzTarPerm extractEntry test/css.js
+130 silly gunzTarPerm modified mode [ 'test/css.js', 438, 420 ]
+131 silly gunzTarPerm extractEntry test/fixtures/core.html
+132 silly gunzTarPerm modified mode [ 'test/fixtures/core.html', 438, 420 ]
+133 silly gunzTarPerm extractEntry test/fixtures/css.css
+134 silly gunzTarPerm modified mode [ 'test/fixtures/css.css', 438, 420 ]
+135 silly gunzTarPerm extractEntry test/fixtures/css.html
+136 silly gunzTarPerm modified mode [ 'test/fixtures/css.html', 438, 420 ]
+137 silly gunzTarPerm extractEntry test/helpers/helper.js
+138 silly gunzTarPerm modified mode [ 'test/helpers/helper.js', 438, 420 ]
+139 silly gunzTarPerm extractEntry tmp/jquery.js
+140 silly gunzTarPerm modified mode [ 'tmp/jquery.js', 438, 420 ]
+141 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+142 silly lockFile f122f086-itHub-madmin-node-modules-jquery C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+143 silly lockFile f122f086-itHub-madmin-node-modules-jquery C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+144 silly lockFile 6df7b5db-m-cache-jquery-1-8-3-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package.tgz
+145 silly lockFile 6df7b5db-m-cache-jquery-1-8-3-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jquery\1.8.3\package.tgz
+146 info preinstall jquery@1.8.3
+147 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+148 verbose readDependencies using package.json deps
+149 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+150 verbose readDependencies using package.json deps
+151 verbose cache add [ 'jsdom@~0.2.14', null ]
+152 verbose cache add name=undefined spec="jsdom@~0.2.14" args=["jsdom@~0.2.14",null]
+153 verbose parsed url { pathname: 'jsdom@~0.2.14',
+153 verbose parsed url   path: 'jsdom@~0.2.14',
+153 verbose parsed url   href: 'jsdom@~0.2.14' }
+154 verbose cache add name="jsdom" spec="~0.2.14" args=["jsdom","~0.2.14"]
+155 verbose parsed url { pathname: '~0.2.14', path: '~0.2.14', href: '~0.2.14' }
+156 verbose addNamed [ 'jsdom', '~0.2.14' ]
+157 verbose addNamed [ null, '>=0.2.14- <0.3.0-' ]
+158 silly lockFile dfb30512-jsdom-0-2-14 jsdom@~0.2.14
+159 verbose lock jsdom@~0.2.14 C:\Users\Mark\AppData\Roaming\npm-cache\dfb30512-jsdom-0-2-14.lock
+160 verbose cache add [ 'htmlparser@1.7.6', null ]
+161 verbose cache add name=undefined spec="htmlparser@1.7.6" args=["htmlparser@1.7.6",null]
+162 verbose parsed url { pathname: 'htmlparser@1.7.6',
+162 verbose parsed url   path: 'htmlparser@1.7.6',
+162 verbose parsed url   href: 'htmlparser@1.7.6' }
+163 verbose cache add name="htmlparser" spec="1.7.6" args=["htmlparser","1.7.6"]
+164 verbose parsed url { pathname: '1.7.6', path: '1.7.6', href: '1.7.6' }
+165 verbose addNamed [ 'htmlparser', '1.7.6' ]
+166 verbose addNamed [ '1.7.6', '1.7.6' ]
+167 silly lockFile 1f8880a7-htmlparser-1-7-6 htmlparser@1.7.6
+168 verbose lock htmlparser@1.7.6 C:\Users\Mark\AppData\Roaming\npm-cache\1f8880a7-htmlparser-1-7-6.lock
+169 verbose cache add [ 'xmlhttprequest@~1.4.2', null ]
+170 verbose cache add name=undefined spec="xmlhttprequest@~1.4.2" args=["xmlhttprequest@~1.4.2",null]
+171 verbose parsed url { pathname: 'xmlhttprequest@~1.4.2',
+171 verbose parsed url   path: 'xmlhttprequest@~1.4.2',
+171 verbose parsed url   href: 'xmlhttprequest@~1.4.2' }
+172 verbose cache add name="xmlhttprequest" spec="~1.4.2" args=["xmlhttprequest","~1.4.2"]
+173 verbose parsed url { pathname: '~1.4.2', path: '~1.4.2', href: '~1.4.2' }
+174 verbose addNamed [ 'xmlhttprequest', '~1.4.2' ]
+175 verbose addNamed [ null, '>=1.4.2- <1.5.0-' ]
+176 silly lockFile 5e92c166-xmlhttprequest-1-4-2 xmlhttprequest@~1.4.2
+177 verbose lock xmlhttprequest@~1.4.2 C:\Users\Mark\AppData\Roaming\npm-cache\5e92c166-xmlhttprequest-1-4-2.lock
+178 verbose cache add [ 'location@0.0.1', null ]
+179 verbose cache add name=undefined spec="location@0.0.1" args=["location@0.0.1",null]
+180 verbose parsed url { pathname: 'location@0.0.1',
+180 verbose parsed url   path: 'location@0.0.1',
+180 verbose parsed url   href: 'location@0.0.1' }
+181 verbose cache add name="location" spec="0.0.1" args=["location","0.0.1"]
+182 verbose parsed url { pathname: '0.0.1', path: '0.0.1', href: '0.0.1' }
+183 verbose addNamed [ 'location', '0.0.1' ]
+184 verbose addNamed [ '0.0.1', '0.0.1' ]
+185 silly lockFile dc2323ed-location-0-0-1 location@0.0.1
+186 verbose lock location@0.0.1 C:\Users\Mark\AppData\Roaming\npm-cache\dc2323ed-location-0-0-1.lock
+187 verbose cache add [ 'navigator@~1.0.1', null ]
+188 verbose cache add name=undefined spec="navigator@~1.0.1" args=["navigator@~1.0.1",null]
+189 verbose parsed url { pathname: 'navigator@~1.0.1',
+189 verbose parsed url   path: 'navigator@~1.0.1',
+189 verbose parsed url   href: 'navigator@~1.0.1' }
+190 verbose cache add name="navigator" spec="~1.0.1" args=["navigator","~1.0.1"]
+191 verbose parsed url { pathname: '~1.0.1', path: '~1.0.1', href: '~1.0.1' }
+192 verbose addNamed [ 'navigator', '~1.0.1' ]
+193 verbose addNamed [ null, '>=1.0.1- <1.1.0-' ]
+194 silly lockFile 74cc156a-navigator-1-0-1 navigator@~1.0.1
+195 verbose lock navigator@~1.0.1 C:\Users\Mark\AppData\Roaming\npm-cache\74cc156a-navigator-1-0-1.lock
+196 verbose cache add [ 'contextify@~0.1.3', null ]
+197 verbose cache add name=undefined spec="contextify@~0.1.3" args=["contextify@~0.1.3",null]
+198 verbose parsed url { pathname: 'contextify@~0.1.3',
+198 verbose parsed url   path: 'contextify@~0.1.3',
+198 verbose parsed url   href: 'contextify@~0.1.3' }
+199 verbose cache add name="contextify" spec="~0.1.3" args=["contextify","~0.1.3"]
+200 verbose parsed url { pathname: '~0.1.3', path: '~0.1.3', href: '~0.1.3' }
+201 verbose addNamed [ 'contextify', '~0.1.3' ]
+202 verbose addNamed [ null, '>=0.1.3- <0.2.0-' ]
+203 silly lockFile 6af1bfda-contextify-0-1-3 contextify@~0.1.3
+204 verbose lock contextify@~0.1.3 C:\Users\Mark\AppData\Roaming\npm-cache\6af1bfda-contextify-0-1-3.lock
+205 silly addNameRange { name: 'jsdom', range: '>=0.2.14- <0.3.0-', hasData: false }
+206 silly addNameRange { name: 'xmlhttprequest',
+206 silly addNameRange   range: '>=1.4.2- <1.5.0-',
+206 silly addNameRange   hasData: false }
+207 silly addNameRange { name: 'navigator', range: '>=1.0.1- <1.1.0-', hasData: false }
+208 silly addNameRange { name: 'contextify', range: '>=0.1.3- <0.2.0-', hasData: false }
+209 verbose url raw htmlparser/1.7.6
+210 verbose url resolving [ 'https://registry.npmjs.org/', './htmlparser/1.7.6' ]
+211 verbose url resolved https://registry.npmjs.org/htmlparser/1.7.6
+212 info trying registry request attempt 1 at 16:26:08
+213 verbose etag "D6XT9YEANCFMX5U223FGZNRMT"
+214 http GET https://registry.npmjs.org/htmlparser/1.7.6
+215 verbose url raw xmlhttprequest
+216 verbose url resolving [ 'https://registry.npmjs.org/', './xmlhttprequest' ]
+217 verbose url resolved https://registry.npmjs.org/xmlhttprequest
+218 info trying registry request attempt 1 at 16:26:08
+219 verbose etag "D4JB1X0LGYNVVTLDFFEBT3B13"
+220 http GET https://registry.npmjs.org/xmlhttprequest
+221 verbose url raw location/0.0.1
+222 verbose url resolving [ 'https://registry.npmjs.org/', './location/0.0.1' ]
+223 verbose url resolved https://registry.npmjs.org/location/0.0.1
+224 info trying registry request attempt 1 at 16:26:08
+225 verbose etag "69C4GHLGVSESTGPS52VXKX66N"
+226 http GET https://registry.npmjs.org/location/0.0.1
+227 verbose url raw jsdom
+228 verbose url resolving [ 'https://registry.npmjs.org/', './jsdom' ]
+229 verbose url resolved https://registry.npmjs.org/jsdom
+230 info trying registry request attempt 1 at 16:26:08
+231 verbose etag "2AJ75X6EZRYMP7S1LHUMCKZGX"
+232 http GET https://registry.npmjs.org/jsdom
+233 verbose url raw navigator
+234 verbose url resolving [ 'https://registry.npmjs.org/', './navigator' ]
+235 verbose url resolved https://registry.npmjs.org/navigator
+236 info trying registry request attempt 1 at 16:26:08
+237 verbose etag "79CVEDRPI32Z6BVEGIA4SSNPH"
+238 http GET https://registry.npmjs.org/navigator
+239 verbose url raw contextify
+240 verbose url resolving [ 'https://registry.npmjs.org/', './contextify' ]
+241 verbose url resolved https://registry.npmjs.org/contextify
+242 info trying registry request attempt 1 at 16:26:08
+243 verbose etag "B31RCQPQAERRUEPJ5CG0EUIIH"
+244 http GET https://registry.npmjs.org/contextify
+245 http 304 https://registry.npmjs.org/htmlparser/1.7.6
+246 silly registry.get cb [ 304,
+246 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+246 silly registry.get     etag: '"D6XT9YEANCFMX5U223FGZNRMT"',
+246 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+246 silly registry.get     'content-length': '0' } ]
+247 verbose etag htmlparser/1.7.6 from cache
+248 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package\package.json
+249 silly lockFile 1f8880a7-htmlparser-1-7-6 htmlparser@1.7.6
+250 silly lockFile 1f8880a7-htmlparser-1-7-6 htmlparser@1.7.6
+251 http 304 https://registry.npmjs.org/location/0.0.1
+252 silly registry.get cb [ 304,
+252 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+252 silly registry.get     etag: '"69C4GHLGVSESTGPS52VXKX66N"',
+252 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+252 silly registry.get     'content-length': '0' } ]
+253 verbose etag location/0.0.1 from cache
+254 http 304 https://registry.npmjs.org/navigator
+255 silly registry.get cb [ 304,
+255 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+255 silly registry.get     etag: '"79CVEDRPI32Z6BVEGIA4SSNPH"',
+255 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+255 silly registry.get     'content-length': '0' } ]
+256 verbose etag navigator from cache
+257 http 304 https://registry.npmjs.org/xmlhttprequest
+258 silly registry.get cb [ 304,
+258 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+258 silly registry.get     etag: '"D4JB1X0LGYNVVTLDFFEBT3B13"',
+258 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+258 silly registry.get     'content-length': '0' } ]
+259 verbose etag xmlhttprequest from cache
+260 http 304 https://registry.npmjs.org/jsdom
+261 silly registry.get cb [ 304,
+261 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+261 silly registry.get     etag: '"2AJ75X6EZRYMP7S1LHUMCKZGX"',
+261 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+261 silly registry.get     'content-length': '0' } ]
+262 verbose etag jsdom from cache
+263 http 304 https://registry.npmjs.org/contextify
+264 silly registry.get cb [ 304,
+264 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+264 silly registry.get     etag: '"B31RCQPQAERRUEPJ5CG0EUIIH"',
+264 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:12 GMT',
+264 silly registry.get     'content-length': '0' } ]
+265 verbose etag contextify from cache
+266 silly addNameRange number 2 { name: 'xmlhttprequest',
+266 silly addNameRange   range: '>=1.4.2- <1.5.0-',
+266 silly addNameRange   hasData: true }
+267 silly addNameRange versions [ 'xmlhttprequest',
+267 silly addNameRange   [ '1.0.0',
+267 silly addNameRange     '1.2.0',
+267 silly addNameRange     '1.2.1',
+267 silly addNameRange     '1.2.2',
+267 silly addNameRange     '1.3.0',
+267 silly addNameRange     '1.4.0',
+267 silly addNameRange     '1.4.2',
+267 silly addNameRange     '1.5.0' ] ]
+268 verbose addNamed [ 'xmlhttprequest', '1.4.2' ]
+269 verbose addNamed [ '1.4.2', '1.4.2' ]
+270 silly lockFile 55d2242a-xmlhttprequest-1-4-2 xmlhttprequest@1.4.2
+271 verbose lock xmlhttprequest@1.4.2 C:\Users\Mark\AppData\Roaming\npm-cache\55d2242a-xmlhttprequest-1-4-2.lock
+272 silly addNameRange number 2 { name: 'navigator', range: '>=1.0.1- <1.1.0-', hasData: true }
+273 silly addNameRange versions [ 'navigator', [ '1.0.0', '1.0.1' ] ]
+274 verbose addNamed [ 'navigator', '1.0.1' ]
+275 verbose addNamed [ '1.0.1', '1.0.1' ]
+276 silly lockFile 2f06f600-navigator-1-0-1 navigator@1.0.1
+277 verbose lock navigator@1.0.1 C:\Users\Mark\AppData\Roaming\npm-cache\2f06f600-navigator-1-0-1.lock
+278 silly addNameRange number 2 { name: 'jsdom', range: '>=0.2.14- <0.3.0-', hasData: true }
+279 silly addNameRange versions [ 'jsdom',
+279 silly addNameRange   [ '0.0.1',
+279 silly addNameRange     '0.1.2',
+279 silly addNameRange     '0.1.4',
+279 silly addNameRange     '0.1.5',
+279 silly addNameRange     '0.1.6',
+279 silly addNameRange     '0.1.7',
+279 silly addNameRange     '0.1.8',
+279 silly addNameRange     '0.1.9',
+279 silly addNameRange     '0.1.10',
+279 silly addNameRange     '0.1.11',
+279 silly addNameRange     '0.1.12',
+279 silly addNameRange     '0.1.13',
+279 silly addNameRange     '0.1.15',
+279 silly addNameRange     '0.1.16',
+279 silly addNameRange     '0.1.17',
+279 silly addNameRange     '0.1.18',
+279 silly addNameRange     '0.1.19',
+279 silly addNameRange     '0.1.20',
+279 silly addNameRange     '0.1.21',
+279 silly addNameRange     '0.1.22',
+279 silly addNameRange     '0.1.23',
+279 silly addNameRange     '0.2.0',
+279 silly addNameRange     '0.2.1',
+279 silly addNameRange     '0.2.2',
+279 silly addNameRange     '0.2.3',
+279 silly addNameRange     '0.2.4',
+279 silly addNameRange     '0.2.5',
+279 silly addNameRange     '0.2.6',
+279 silly addNameRange     '0.2.7',
+279 silly addNameRange     '0.2.8',
+279 silly addNameRange     '0.2.9',
+279 silly addNameRange     '0.2.10',
+279 silly addNameRange     '0.2.11',
+279 silly addNameRange     '0.2.12',
+279 silly addNameRange     '0.2.13',
+279 silly addNameRange     '0.2.14',
+279 silly addNameRange     '0.2.15',
+279 silly addNameRange     '0.2.16',
+279 silly addNameRange     '0.2.17',
+279 silly addNameRange     '0.2.18',
+279 silly addNameRange     '0.2.19',
+279 silly addNameRange     '0.3.0',
+279 silly addNameRange     '0.3.1',
+279 silly addNameRange     '0.3.2',
+279 silly addNameRange     '0.3.3',
+279 silly addNameRange     '0.3.4',
+279 silly addNameRange     '0.4.0',
+279 silly addNameRange     '0.4.1',
+279 silly addNameRange     '0.4.2',
+279 silly addNameRange     '0.5.0' ] ]
+280 verbose addNamed [ 'jsdom', '0.2.19' ]
+281 verbose addNamed [ '0.2.19', '0.2.19' ]
+282 silly lockFile 37e839c1-jsdom-0-2-19 jsdom@0.2.19
+283 verbose lock jsdom@0.2.19 C:\Users\Mark\AppData\Roaming\npm-cache\37e839c1-jsdom-0-2-19.lock
+284 silly addNameRange number 2 { name: 'contextify', range: '>=0.1.3- <0.2.0-', hasData: true }
+285 silly addNameRange versions [ 'contextify',
+285 silly addNameRange   [ '0.0.2',
+285 silly addNameRange     '0.0.3',
+285 silly addNameRange     '0.0.4',
+285 silly addNameRange     '0.0.5',
+285 silly addNameRange     '0.0.6',
+285 silly addNameRange     '0.0.7',
+285 silly addNameRange     '0.1.0',
+285 silly addNameRange     '0.1.1',
+285 silly addNameRange     '0.1.2',
+285 silly addNameRange     '0.1.3',
+285 silly addNameRange     '0.1.4' ] ]
+286 verbose addNamed [ 'contextify', '0.1.4' ]
+287 verbose addNamed [ '0.1.4', '0.1.4' ]
+288 silly lockFile 7c906ef6-contextify-0-1-4 contextify@0.1.4
+289 verbose lock contextify@0.1.4 C:\Users\Mark\AppData\Roaming\npm-cache\7c906ef6-contextify-0-1-4.lock
+290 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package\package.json
+291 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package\package.json
+292 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package\package.json
+293 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package\package.json
+294 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package\package.json
+295 silly lockFile dc2323ed-location-0-0-1 location@0.0.1
+296 silly lockFile dc2323ed-location-0-0-1 location@0.0.1
+297 silly lockFile 55d2242a-xmlhttprequest-1-4-2 xmlhttprequest@1.4.2
+298 silly lockFile 55d2242a-xmlhttprequest-1-4-2 xmlhttprequest@1.4.2
+299 silly lockFile 37e839c1-jsdom-0-2-19 jsdom@0.2.19
+300 silly lockFile 37e839c1-jsdom-0-2-19 jsdom@0.2.19
+301 silly lockFile 2f06f600-navigator-1-0-1 navigator@1.0.1
+302 silly lockFile 2f06f600-navigator-1-0-1 navigator@1.0.1
+303 silly lockFile 7c906ef6-contextify-0-1-4 contextify@0.1.4
+304 silly lockFile 7c906ef6-contextify-0-1-4 contextify@0.1.4
+305 silly lockFile 5e92c166-xmlhttprequest-1-4-2 xmlhttprequest@~1.4.2
+306 silly lockFile 5e92c166-xmlhttprequest-1-4-2 xmlhttprequest@~1.4.2
+307 silly lockFile dfb30512-jsdom-0-2-14 jsdom@~0.2.14
+308 silly lockFile dfb30512-jsdom-0-2-14 jsdom@~0.2.14
+309 silly lockFile 74cc156a-navigator-1-0-1 navigator@~1.0.1
+310 silly lockFile 74cc156a-navigator-1-0-1 navigator@~1.0.1
+311 silly lockFile 6af1bfda-contextify-0-1-3 contextify@~0.1.3
+312 silly lockFile 6af1bfda-contextify-0-1-3 contextify@~0.1.3
+313 silly resolved [ { name: 'htmlparser',
+313 silly resolved     description: 'Forgiving HTML/XML/RSS Parser in JS for *both* Node and Browsers',
+313 silly resolved     version: '1.7.6',
+313 silly resolved     author: { name: 'Chris Winberry', email: 'chris@winberry.net' },
+313 silly resolved     contributors: [],
+313 silly resolved     repository:
+313 silly resolved      { type: 'git',
+313 silly resolved        url: 'https://github.com/tautologistics/node-htmlparser' },
+313 silly resolved     keywords: [ 'html', 'xml', 'rss', 'parser' ],
+313 silly resolved     directories: { lib: './lib/' },
+313 silly resolved     main: './lib/htmlparser',
+313 silly resolved     homepage: 'http://github.com/tautologistics/node-htmlparser',
+313 silly resolved     bugs:
+313 silly resolved      { mail: 'chris@winberry.net',
+313 silly resolved        url: 'http://github.com/tautologistics/node-htmlparser/issues' },
+313 silly resolved     engines: { node: '>=0.1.33' },
+313 silly resolved     licenses: [ [Object] ],
+313 silly resolved     readme: '#NodeHtmlParser\nA forgiving HTML/XML/RSS parser written in JS for both the browser and NodeJS (yes, despite the name it works just fine in any modern browser). The parser can handle streams (chunked data) and supports custom handlers for writing custom DOMs/output.\n\n##Installing\n\n\tnpm install htmlparser\n\n##Running Tests\n\n###Run tests under node:\n\tnode runtests.js\n\n###Run tests in browser:\nView runtests.html in any browser\n\n##Usage In Node\n\n```javascript\nvar htmlparser = require("htmlparser");\nvar rawHtml = "Xyz <script language= javascript>var foo = \'<<bar>>\';< /  script><!--<!-- Waah! -- -->";\nvar handler = new htmlparser.DefaultHandler(function (error, dom) {\n\tif (error)\n\t\t[...do something for errors...]\n\telse\n\t\t[...parsing done, do something...]\n});\nvar parser = new htmlparser.Parser(handler);\nparser.parseComplete(rawHtml);\nsys.puts(sys.inspect(handler.dom, false, null));\n```\n\n##Usage In Browser\n\n```javascript\nvar handler = new Tautologistics.NodeHtmlParser.DefaultHandler(function (error, dom) {\n\tif (error)\n\t\t[...do something for errors...]\n\telse\n\t\t[...parsing done, do something...]\n});\nvar parser = new Tautologistics.NodeHtmlParser.Parser(handler);\nparser.parseComplete(document.body.innerHTML);\nalert(JSON.stringify(handler.dom, null, 2));\n```\n\n##Example output\n\n```javascript\n[ { raw: \'Xyz \', data: \'Xyz \', type: \'text\' }\n  , { raw: \'script language= javascript\'\n  , data: \'script language= javascript\'\n  , type: \'script\'\n  , name: \'script\'\n  , attribs: { language: \'javascript\' }\n  , children: \n     [ { raw: \'var foo = \\\'<bar>\\\';<\'\n       , data: \'var foo = \\\'<bar>\\\';<\'\n       , type: \'text\'\n       }\n     ]\n  }\n, { raw: \'<!-- Waah! -- \'\n  , data: \'<!-- Waah! -- \'\n  , type: \'comment\'\n  }\n]\n```\n\n##Streaming To Parser\n\n```javascript\nwhile (...) {\n\t...\n\tparser.parseChunk(chunk);\n}\nparser.done();\t\n```\n\n##Parsing RSS/Atom Feeds\n\n```javascript\nnew htmlparser.RssHandler(function (error, dom) {\n\t...\n});\n```\n\n##DefaultHandler Options\n\n###Usage\n\n```javascript\nvar handler = new htmlparser.DefaultHandler(\n\t  function (error) { ... }\n\t, { verbose: false, ignoreWhitespace: true }\n\t);\n```\n\n###Option: ignoreWhitespace\nIndicates whether the DOM should exclude text nodes that consists solely of whitespace. The default value is "false".\n\n####Example: true\n\nThe following HTML:\n\n```html\n<font>\n\t<br>this is the text\n<font>\n```\n\nbecomes:\n\n```javascript\n[ { raw: \'font\'\n  , data: \'font\'\n  , type: \'tag\'\n  , name: \'font\'\n  , children: \n     [ { raw: \'br\', data: \'br\', type: \'tag\', name: \'br\' }\n     , { raw: \'this is the text\\n\'\n       , data: \'this is the text\\n\'\n       , type: \'text\'\n       }\n     , { raw: \'font\', data: \'font\', type: \'tag\', name: \'font\' }\n     ]\n  }\n]\n```\n\n####Example: false\n\nThe following HTML:\n\n```html\n<font>\n\t<br>this is the text\n<font>\n```\n\nbecomes:\n\n```javascript\n[ { raw: \'font\'\n  , data: \'font\'\n  , type: \'tag\'\n  , name: \'font\'\n  , children: \n     [ { raw: \'\\n\\t\', data: \'\\n\\t\', type: \'text\' }\n     , { raw: \'br\', data: \'br\', type: \'tag\', name: \'br\' }\n     , { raw: \'this is the text\\n\'\n       , data: \'this is the text\\n\'\n       , type: \'text\'\n       }\n     , { raw: \'font\', data: \'font\', type: \'tag\', name: \'font\' }\n     ]\n  }\n]\n```\n\n###Option: verbose\nIndicates whether to include extra information on each node in the DOM. This information consists of the "raw" attribute (original, unparsed text found between "<" and ">") and the "data" attribute on "tag", "script", and "comment" nodes. The default value is "true". \n\n####Example: true\nThe following HTML:\n\n```html\n<a href="test.html">xxx</a>\n```\n\nbecomes:\n\n```javascript\n[ { raw: \'a href="test.html"\'\n  , data: \'a href="test.html"\'\n  , type: \'tag\'\n  , name: \'a\'\n  , attribs: { href: \'test.html\' }\n  , children: [ { raw: \'xxx\', data: \'xxx\', type: \'text\' } ]\n  }\n]\n```\n\n####Example: false\nThe following HTML:\n\n```javascript\n<a href="test.html">xxx</a>\n```\n\nbecomes:\n\n```javascript\n[ { type: \'tag\'\n  , name: \'a\'\n  , attribs: { href: \'test.html\' }\n  , children: [ { data: \'xxx\', type: \'text\' } ]\n  }\n]\n```\n\n###Option: enforceEmptyTags\nIndicates whether the DOM should prevent children on tags marked as empty in the HTML spec. Typically this should be set to "true" HTML parsing and "false" for XML parsing. The default value is "true".\n\n####Example: true\nThe following HTML:\n\n```html\n<link>text</link>\n```\n\nbecomes:\n\n```javascript\n[ { raw: \'link\', data: \'link\', type: \'tag\', name: \'link\' }\n, { raw: \'text\', data: \'text\', type: \'text\' }\n]\n```\n\n####Example: false\nThe following HTML:\n\n```html\n<link>text</link>\n```\n\nbecomes:\n\n```javascript\n[ { raw: \'link\'\n  , data: \'link\'\n  , type: \'tag\'\n  , name: \'link\'\n  , children: [ { raw: \'text\', data: \'text\', type: \'text\' } ]\n  }\n]\n```\n\n##DomUtils\n\n###TBD (see utils_example.js for now)\n\n##Related Projects\n\nLooking for CSS selectors to search the DOM? Try Node-SoupSelect, a port of SoupSelect to NodeJS: http://github.com/harryf/node-soupselect\n\nThere\'s also a port of hpricot to NodeJS that uses HtmlParser for HTML parsing: http://github.com/silentrob/Apricot\n\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'htmlparser@1.7.6',
+313 silly resolved     _from: 'htmlparser@1.7.6' },
+313 silly resolved   { author:
+313 silly resolved      { name: 'AJ ONeal',
+313 silly resolved        email: 'coolaj86@gmail.com',
+313 silly resolved        url: 'http://coolaj86.info' },
+313 silly resolved     name: 'location',
+313 silly resolved     description: 'A Browser-esque location object',
+313 silly resolved     version: '0.0.1',
+313 silly resolved     repository:
+313 silly resolved      { type: 'git',
+313 silly resolved        url: 'git://github.com/coolaj86/node-location.git' },
+313 silly resolved     main: 'location.js',
+313 silly resolved     engines: { node: '>= 0.2.0' },
+313 silly resolved     dependencies: {},
+313 silly resolved     devDependencies: {},
+313 silly resolved     readme: 'location\n====\n\nA mock location object for unit tests and such and to maintain compatibility between `Ender.JS` and `Node.JS`\n\nFor best results, create a `location.config.js` in the working directory of your app that returns a location object that should be used.\n\nCurrent Implementation\n---\n\n    var fs = require(\'fs\')\n      , location\n      , defaultLocation\n      ;\n\n    defaultLocation = {\n      "origin": "http://localhost:3000",\n      "pathname": "/",\n      "host": "localhost:3000",\n      "hostname": "localhost",\n      "port": "3000",\n      "search": "",\n      "hash": "#home",\n      "href": "http://localhost:3000/#home",\n      "protocol": "http:"\n    };\n\n    try {\n      // TODO try all from `__dirname` to `/` before giving up\n      location = fs.readFileSync(\'./location.config.js\');\n    } catch(e) {\n      location = defaultLocation;\n    }\n\n    module.exports = location;\n\nTODO\n---\n\nLook for `__dirname + "location.config.js"` and then look up one directory at each failure before finally giving up and using the default object.\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'location@0.0.1',
+313 silly resolved     _from: 'location@0.0.1' },
+313 silly resolved   { name: 'xmlhttprequest',
+313 silly resolved     description: 'XMLHttpRequest for Node',
+313 silly resolved     version: '1.4.2',
+313 silly resolved     author: { name: 'Dan DeFelippi', url: 'http://driverdan.com' },
+313 silly resolved     keywords: [ 'xhr', 'ajax' ],
+313 silly resolved     licenses: [ [Object] ],
+313 silly resolved     repository:
+313 silly resolved      { type: 'git',
+313 silly resolved        url: 'git://github.com/driverdan/node-XMLHttpRequest.git' },
+313 silly resolved     bugs: 'http://github.com/driverdan/node-XMLHttpRequest/issues',
+313 silly resolved     engines: { node: '>=0.4.0' },
+313 silly resolved     directories: { lib: './lib', example: './example' },
+313 silly resolved     main: './lib/XMLHttpRequest.js',
+313 silly resolved     readme: '# node-XMLHttpRequest #\n\nnode-XMLHttpRequest is a wrapper for the built-in http client to emulate the\nbrowser XMLHttpRequest object.\n\nThis can be used with JS designed for browsers to improve reuse of code and\nallow the use of existing libraries.\n\nNote: This library currently conforms to [XMLHttpRequest 1](http://www.w3.org/TR/XMLHttpRequest/). Version 2.0 will target [XMLHttpRequest Level 2](http://www.w3.org/TR/XMLHttpRequest2/).\n\n## Usage ##\n\nHere\'s how to include the module in your project and use as the browser-based\nXHR object.\n\n\tvar XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;\n\tvar xhr = new XMLHttpRequest();\n\nNote: use the lowercase string "xmlhttprequest" in your require(). On\ncase-sensitive systems (eg Linux) using uppercase letters won\'t work.\n\n## Versions ##\n\nPrior to 1.4.0 version numbers were arbitrary. From 1.4.0 on they conform to\nthe standard major.minor.bugfix. 1.x shouldn\'t necessarily be considered\nstable just because it\'s above 0.x.\n\nSince the XMLHttpRequest API is stable this library\'s API is stable as\nwell. Major version numbers indicate significant core code changes.\nMinor versions indicate minor core code changes or better conformity to\nthe W3C spec.\n\n## Supports ##\n\n* Async and synchronous requests\n* GET, POST, PUT, and DELETE requests\n* All spec methods (open, send, abort, getRequestHeader,\n  getAllRequestHeaders, event methods)\n* Requests to all domains\n\n## Known Issues / Missing Features ##\n\nFor a list of open issues or to report your own visit the [github issues\npage](https://github.com/driverdan/node-XMLHttpRequest/issues).\n\n* Local file access may have unexpected results for non-UTF8 files\n* Synchronous requests don\'t set headers properly\n* Synchronous requests freeze node while waiting for response (But that\'s what you want, right? Stick with async!).\n* Some events are missing, such as abort\n* getRequestHeader is case-sensitive\n* Cookies aren\'t persisted between requests\n* Missing XML support\n* Missing basic auth\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'xmlhttprequest@1.4.2',
+313 silly resolved     _from: 'xmlhttprequest@~1.4.2' },
+313 silly resolved   { name: 'jsdom',
+313 silly resolved     version: '0.2.19',
+313 silly resolved     description: 'A JavaScript implementation of the W3C DOM',
+313 silly resolved     keywords: [ 'dom', 'w3c', 'html' ],
+313 silly resolved     maintainers: [ [Object], [Object] ],
+313 silly resolved     contributors:
+313 silly resolved      [ [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object],
+313 silly resolved        [Object] ],
+313 silly resolved     bugs:
+313 silly resolved      { email: 'tmpvar@gmail.com',
+313 silly resolved        url: 'http://github.com/tmpvar/jsdom/issues' },
+313 silly resolved     licenses: [ [Object] ],
+313 silly resolved     repositories: [ [Object] ],
+313 silly resolved     implements: [ 'http://www.w3.org/TR/REC-DOM-Level-1' ],
+313 silly resolved     dependencies:
+313 silly resolved      { htmlparser: '1.x',
+313 silly resolved        request: '2.x',
+313 silly resolved        cssom: '0.2.x',
+313 silly resolved        cssstyle: '>=0.2.3',
+313 silly resolved        contextify: '0.1.x' },
+313 silly resolved     optionalDependencies: { contextify: '0.1.x' },
+313 silly resolved     devDependencies: { nodeunit: '>=0.5.x', 'console.log': '*', optimist: '*' },
+313 silly resolved     directories: { lib: './lib/jsdom' },
+313 silly resolved     scripts: { test: 'node ./test/runner' },
+313 silly resolved     main: './lib/jsdom',
+313 silly resolved     readme: '# jsdom\n\nA JavaScript implementation of the W3C DOM.\n\n## Install\n\n```bash\n$ npm install jsdom\n```\n\n## Human contact\n\nsee: [mailing list](http://groups.google.com/group/jsdom)\n\n## Easymode\n\nBootstrapping a DOM is generally a difficult process involving many error prone steps. We didn\'t want jsdom to fall into the same trap and that is why a new method, `jsdom.env()`, has been added in jsdom 0.2.0 which should make everyone\'s lives easier.\n\nwith URL\n\n```js\n// Count all of the links from the nodejs build page\nvar jsdom = require("jsdom");\n\njsdom.env(\n  "http://nodejs.org/dist/",\n  ["http://code.jquery.com/jquery.js"],\n  function (errors, window) {\n    console.log("there have been", window.$("a").length, "nodejs releases!");\n  }\n);\n```\n\nor with raw HTML\n\n```js\n// Run some jQuery on a html fragment\nvar jsdom = require("jsdom");\n\njsdom.env(\n  \'<p><a class="the-link" href="https://github.com/tmpvar/jsdom">jsdom\\\'s Homepage</a></p>\',\n  ["http://code.jquery.com/jquery.js"],\n  function(errors, window) {\n    console.log("contents of a.the-link:", window.$("a.the-link").text());\n  }\n);\n```\n\nor with a configuration object\n\n```js\n// Print all of the news items on hackernews\nvar jsdom = require("jsdom");\n\njsdom.env({\n  html: "http://news.ycombinator.com/",\n  scripts: ["http://code.jquery.com/jquery.js"],\n  done: function (errors, window) {\n    var $ = window.$;\n    console.log("HN Links");\n    $("td.title:not(:last) a").each(function() {\n      console.log(" -", $(this).text());\n    });\n  }\n});\n```\n\nor with raw JavaScript source\n\n```js\n// Print all of the news items on hackernews\nvar jsdom = require("jsdom");\nvar fs = require("fs");\nvar jquery = fs.readFileSync("./jquery.js").toString();\n\njsdom.env({\n  html: "http://news.ycombinator.com/",\n  src: [jquery],\n  done: function (errors, window) {\n    var $ = window.$;\n    console.log("HN Links");\n    $("td.title:not(:last) a").each(function() {\n      console.log(" -", $(this).text());\n    });\n  }\n});\n```\n\n### How it works\n`jsdom.env` is built for ease of use, which is rare in the world of the DOM! Since the web has some absolutely horrible JavaScript on it, as of jsdom 0.2.0 `jsdom.env` will not process external resources (scripts, images, etc).  If you want to process the JavaScript use one of the methods below (`jsdom.jsdom` or `jsdom.jQueryify`)\n\n```js\njsdom.env(html, [scripts], [config], callback);\n```\n\n- `html` (**required**): may be a URL, HTML fragment, or file.\n- `scripts` (**optional**): may contain files or URLs.\n- `config` (**optional**): see below.\n- `callback` (**required**): takes two arguments:\n  - `errors`: an array of errors\n  - `window`: a brand new window\n\n_example:_\n\n```js\njsdom.env(html, function (errors, window) {\n  // free memory associated with the window\n  window.close();\n});\n```\n\nIf you would like to specify a configuration object only:\n\n```js\njsdom.env(config);\n```\n\n- `config.html`: see `html` above.\n- `config.scripts`: see `scripts` above.\n- `config.src`: an array of JavaScript strings that will be evaluated against the resulting document. Similar to `scripts`, but it accepts JavaScript instead of paths/URLs.\n- `config.done`: see `callback` above.\n- `config.document`:\n  - `referer`: the new document will have this referer\n  - `cookie`: manually set a cookie value, e.g. `\'key=value; expires=Wed, Sep 21 2011 12:00:00 GMT; path=/\'`\n- `config.features` : see `Flexibility` section below. **Note**: the default feature set for jsdom.env does _not_ include fetching remote JavaScript and executing it. This is something that you will need to **carefully** enable yourself.\n\n## For the hardcore\n\nIf you want to spawn a document/window and specify all sorts of options this is the section for you. This section covers the `jsdom.jsdom` method:\n\n```js\nvar jsdom = require("jsdom").jsdom;\nvar doc = jsdom(markup, level, options);\nvar window = doc.createWindow();\n```\n\n- `markup` is an HTML/XML document to be parsed. You can also pass `null` or an undefined value to get a basic document with empty `<head>` and `<body>` tags. Document fragments are also supported (including `""`), and will behave as sanely as possible (e.g. the resulting document will lack the `head`, `body` and `documentElement` properties if the corresponding elements aren\'t included).\n\n- `level` is `null` (which means level3) by default, but you can pass another level if you\'d like.\n\n  ```js\n  var jsdom = require("jsdom");\n  var doc = jsdom.jsdom("<html><body></body></html>", jsdom.level(1, "core"));\n  ```\n\n- `options` see the **Flexibility** section below.\n\n### Flexibility\n\nOne of the goals of jsdom is to be as minimal and light as possible. This section details how someone can change the behavior of `Document`s on the fly.  These features are baked into the `DOMImplementation` that every `Document` has, and may be tweaked in two ways:\n\n1. When you create a new `Document` using the jsdom builder (`require("jsdom").jsdom()`)\n\n  ```js\n  var jsdom = require("jsdom").jsdom;\n  var doc = jsdom("<html><body></body></html>", null, {\n    features: {\n      FetchExternalResources : ["img"]\n    }\n  });\n  ```\n\n  Do note, that this will only affect the document that is currently being created. All other documents will use the defaults specified below (see: Default Features).\n\n2. Before creating any documents, you can modify the defaults for all future documents:\n\n  ```js\n  require("jsdom").defaultDocumentFeatures = {\n    FetchExternalResources: ["script"],\n    ProcessExternalResources: false,\n    MutationEvents: false,\n    QuerySelector: false\n  };\n  ```\n\n#### Default Features\n\nDefault features are extremely important for jsdom as they lower the configuration requirement and present developers a set of consistent default behaviors. The following sections detail the available features, their defaults, and the values that jsdom uses.\n\n\n`FetchExternalResources`\n\n- _Default_: `["script"]`\n- _Allowed_: `["script", "img", "css", "frame", "iframe", "link"]` or `false`\n\nEnables/disables fetching files over the file system/HTTP.\n\n`ProcessExternalResources`\n\n- _Default_: `["script"]`\n- _Allowed_: `["script"]` or `false`\n\nDisabling this will disable script execution (currently only JavaScript).\n\n`SkipExternalResources`\n\n- _Default_: `false`\n- _Allowed_: `/url to be skipped/` or `false`\n- _Example_: `/http:\\/\\/example.org/js/bad\\.js/`\n\nDo not download and process resources with url matching a regular expression.\n\n`MutationEvents`\n\n- _Default_: `"2.0"`\n- _Allowed_ : `"2.0"` or `false`\n\nInitially enabled to be up to spec. Disable this if you do not need mutation events and want jsdom to be a bit more efficient.\n\n**Note**: `ProcessExternalResources` requires this to be enabled.\n\n`QuerySelector`\n\n - _Default_ : `false`\n - _Allowed_ : `true`\n\nThis feature is backed by [sizzle][] but currently causes problems with some libraries. Enable this if you want `document.querySelector` and friends, but be aware that many libraries feature detect for this, and it may cause you a bit of trouble.\n\n[sizzle]: http://sizzlejs.com/\n\n## Canvas\n\njsdom includes support for using the [canvas](https://npmjs.org/package/canvas) package to extend any `<canvas>` elements with the canvas API. To make this work, you need to include canvas as a dependency in your project, as a peer of jsdom. If jsdom can find the canvas package, it will use it, but if it\'s not present, then `<canvas>` elements will behave like `<div>`s.\n\n# More Examples\n\n## Creating a document-less window\n\n```js\nvar jsdom = require("jsdom");\nvar window = jsdom.createWindow();\n\nconsole.log(window.document); // output: undefined\n```\n\n## Creating a document\n\n```js\nvar jsdom = require("jsdom");\nvar doc = new (jsdom.level(1, "core").Document)();\n\nconsole.log(doc.nodeName); // outputs: #document\n```\n\n## Creating a browser-like BOM/DOM/Window\n\n```js\nvar jsdom = require("jsdom").jsdom;\nvar document = jsdom("<html><head></head><body>hello world</body></html>");\nvar window = document.createWindow();\n\nconsole.log(window.document.innerHTML);\n// output: "<html><head></head><body>hello world</body></html>"\n\nconsole.log(window.innerWidth);\n// output: 1024\n\nconsole.log(typeof window.document.getElementsByClassName);\n// outputs: function\n```\n\n## jQueryify\n\n```js\nvar jsdom = require("jsdom");\nvar window = jsdom.jsdom().createWindow();\n\njsdom.jQueryify(window, "http://code.jquery.com/jquery.js", function () {\n  window.$("body").append(\'<div class="testing">Hello World, It works</div>\');\n\n  console.log(window.$(".testing").text());\n});\n```\n\n## Passing objects to scripts inside the page\n\n```js\nvar jsdom = require("jsdom").jsdom;\nvar window = jsdom().createWindow();\n\nwindow.__myObject = { foo: "bar" };\n\nvar scriptEl = window.document.createElement("script");\nscriptEl.src = "anotherScript.js";\nwindow.document.body.appendChild(scriptEl);\n\n// anotherScript.js will have the ability to read `window.__myObject`, even\n// though it originated in Node!\n```\n\n# Test Compliance:\n\n```\n level1/core                        532/532      100%\n level1/html                        238/238      100%\n level1/svg                         527/527      100%\n level2/core                        283/283      100%\n level2/html                        694/694      100%\n level2/style                           5/5      100%\n level2/extra                           4/4      100%\n level2/events                        24/24      100%\n level3/xpath                         93/93      100%\n window/index                           5/5      100%\n window/script                        10/10      100%\n window/frame                         14/14      100%\n sizzle/index                         12/15       80%\n jsdom/index                          83/83      100%\n jsonp/jsonp                            1/1      100%\n browser/contextifyReplacement          4/4      100%\n browser/index                        22/22      100%\n------------------------------------------------------\nTOTALS: 3/2554 failed; 99% success\n```\n\n## Running the tests\n\nFirst you\'ll want to `npm install`. To run all the tests, use `npm test`, which just calls `node test/runner`.\n\nUsing `test/runner` directly, you can slice and dice which tests your want to run from different levels. Usage is as follows:\n\n```\ntest/runner --help\nRun the jsdom test suite\n\nOptions:\n-s, --suites     suites that you want to run. ie: -s level1/core,1/html,html [string]\n-f, --fail-fast  stop on the first failed test\n-h, --help       show the help\n-t, --tests      choose the test cases to run. ie: -t jquery\n```\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'jsdom@0.2.19',
+313 silly resolved     _from: 'jsdom@~0.2.14' },
+313 silly resolved   { author:
+313 silly resolved      { name: 'AJ ONeal',
+313 silly resolved        email: 'coolaj86@gmail.com',
+313 silly resolved        url: 'http://coolaj86.info' },
+313 silly resolved     name: 'navigator',
+313 silly resolved     description: 'A browser-esque `navigator` for Node.JS (for Ender.JS compatibility)',
+313 silly resolved     version: '1.0.1',
+313 silly resolved     repository:
+313 silly resolved      { type: 'git',
+313 silly resolved        url: 'git://github.com/coolaj86/node-navigator.git' },
+313 silly resolved     main: 'index.js',
+313 silly resolved     engines: { node: '>= v0.2.0' },
+313 silly resolved     dependencies: {},
+313 silly resolved     devDependencies: {},
+313 silly resolved     readme: 'navigator\n===\n\nEmulates the browser\'s `navigator`\n\n    {\n        appCodeName: "Mozilla"\n      , appName: "Netscape"\n      , appVersion: "5.0 (" + machine + "; " + arch + ") " + engine\n      , cookieEnabled: true\n      , geolocation: undefined\n        /*\n          clearWatch\n          getCurrentPosition\n          watchPosition\n        */\n      , mimeTypes: []\n        /*\n        */\n      , onLine: true\n      , platform: "MacIntel"\n      , plugins: []\n        /*\n        */\n      , product: "Gecko"\n      , productSub: "20030107"\n      , usegAgent: "Mozilla/5.0 (" + machine + "; " + arch + ") " + engine\n      , vendor: "Joyent"\n      , vendorSub: ""\n    }\n\nTODO\n===\n\nUse `process.os` and such for a more accurate readout\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'navigator@1.0.1',
+313 silly resolved     _from: 'navigator@~1.0.1' },
+313 silly resolved   { name: 'contextify',
+313 silly resolved     version: '0.1.4',
+313 silly resolved     description: 'Turn an object into a persistent execution context.',
+313 silly resolved     author: { name: 'Brian McDaniel', email: 'brianmcd05@gmail.com' },
+313 silly resolved     contributors: [ [Object] ],
+313 silly resolved     keywords: [ 'context', 'vm' ],
+313 silly resolved     repository:
+313 silly resolved      { type: 'git',
+313 silly resolved        url: 'https://github.com/brianmcd/contextify.git' },
+313 silly resolved     main: './lib/contextify',
+313 silly resolved     scripts: { test: 'nodeunit test/', install: 'node-gyp rebuild' },
+313 silly resolved     engines: { node: '>=0.4.0' },
+313 silly resolved     licenses: [ [Object] ],
+313 silly resolved     dependencies: { bindings: '*' },
+313 silly resolved     devDependencies: { nodeunit: '>=0.5.x' },
+313 silly resolved     gypfile: true,
+313 silly resolved     readme: '# Contextify\n\nTurn an object into a V8 execution context.  A contextified object acts as the global \'this\' when executing scripts in its context.  Contextify adds 3 methods to the contextified object: run(code, filename), getGlobal(), and dispose().  The main difference between Contextify and Node\'s vm methods is that Contextify allows asynchronous functions to continue executing in the Contextified object\'s context.  See vm vs. Contextify below for more discussion.\n\n## Examples\n```javascript\nvar Contextify = require(\'contextify\');\nvar sandbox = { console : console, prop1 : \'prop1\'};\nContextify(sandbox);\nsandbox.run(\'console.log(prop1);\');\nsandbox.dispose(); // free the resources allocated for the context.\n```\n\n```javascript\nvar sandbox = Contextify(); // returns an empty contextified object.\nsandbox.run(\'var x = 3;\');\nconsole.log(sandbox.x); // prints 3\nsandbox.dispose();\n```\n\n```javascript\nvar sandbox = Contextify({setTimeout : setTimeout});\nsandbox.run("setTimeout(function () { x = 3; }, 5);");\nconsole.log(sandbox.x); // prints undefined\nsetTimeout(function () {\n    console.log(sandbox.x); // prints 3\n    sandbox.dispose();\n}, 10);\n```\n## Details\n\n**Contextify([sandbox])**\n\n    sandbox - The object to contextify, which will be modified as described below\n              If no sandbox is specified, an empty object will be allocated and used instead.\n\n    Returns the contextified object.  It doesn\'t make a copy, so if you already have a reference\n    to the sandbox, you don\'t need to catch the return value.\n\nA Contextified object has 2 methods added to it:\n\n**run(code, [filename])**\n\n    code - string containing JavaScript to execute\n    filename  - an optional filename for debugging.\n\n    Runs the code in the Contextified object\'s context.\n\n**getGlobal()**\n\nReturns the actual global object for the V8 context.  The global object is initialized with interceptors (discussed below) which forward accesses on it to the contextified object.  This means the contextified object acts like the global object in most cases.  Sometimes, though, you need to make a reference to the actual global object.\n\nFor example:\n\n```javascript\nvar window = Contextify({console : console});\nwindow.window = window;\nwindow.run("console.log(window === this);");\n// prints false.\n```\n\n```javascript\nvar window = Contextify({console : console});\nwindow.window = window.getGlobal();\nwindow.run("console.log(window === this);");\n// prints true\n```\n\nThe global object returned by getGlobal() can be treated like the contextified sandbox object, except that defining getters/setters will not work on it.  Define getters and setters on the actual sandbox object instead.\n\n**dispose()**\n\nFrees the memory allocated for the underlying V8 context.  If you don\'t call this when you\'re done, the V8 context memory will leak, as will the sandbox memory, since the context\'s global stores a strong reference to the sandbox object.  You can still use your sandbox object after calling dispose(), but it\'s unsafe to use a global previously returned from getGlobal().  run, getGlobal, and dispose will be removed from the sandbox object.\n\n## Install\n\n    npm install contextify\n\n## require(\'vm\') vs. Contextify\n\nNode\'s vm functions (runInContext etc) work by copying the values from the sandbox object onto a context\'s global object, executing the passed in script, then copying the results back.  This means that scripts that create asynchronous functions (using mechanisms like setTimeout) won\'t have see the results of executing those functions, since the copying in/out only occurs during an explicit call to runInContext and friends.  \n\nContextify creates a V8 context, and uses interceptors (see: http://code.google.com/apis/v8/embed.html#interceptors) to forward global object accesses to the sandbox object.  This means there is no copying in or out, so asynchronous functions have the expected effect on the sandbox object.  \n\n## Tests\n\nTesting is done with nodeunit.  Run the tests with\n\n    nodeunit test/\n\nOutput: \n\n    OK: 92 assertions (27ms)\n\n\n## Building\n\n    node-waf configure build\n\n## Acknowledgments\n\nInspiration taken from Assaf\'s Zombie.js context solution: https://github.com/assaf/zombie\n',
+313 silly resolved     readmeFilename: 'README.md',
+313 silly resolved     _id: 'contextify@0.1.4',
+313 silly resolved     _from: 'contextify@~0.1.3' } ]
+314 info install htmlparser@1.7.6 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+315 info install location@0.0.1 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+316 info install xmlhttprequest@1.4.2 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+317 info install jsdom@0.2.19 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+318 info install navigator@1.0.1 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+319 info install contextify@0.1.4 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+320 info installOne htmlparser@1.7.6
+321 info installOne location@0.0.1
+322 info installOne xmlhttprequest@1.4.2
+323 info installOne jsdom@0.2.19
+324 info installOne navigator@1.0.1
+325 info installOne contextify@0.1.4
+326 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package\package.json
+327 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package\package.json
+328 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package\package.json
+329 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package\package.json
+330 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package\package.json
+331 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser unbuild
+332 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser\package.json
+333 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location unbuild
+334 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location\package.json
+335 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest unbuild
+336 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest\package.json
+337 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom unbuild
+338 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom\package.json
+339 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator unbuild
+340 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator\package.json
+341 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package\package.json
+342 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify unbuild
+343 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+344 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package.tgz
+345 silly lockFile bccf8dbb-s-jquery-node-modules-htmlparser C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser
+346 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser C:\Users\Mark\AppData\Roaming\npm-cache\bccf8dbb-s-jquery-node-modules-htmlparser.lock
+347 silly lockFile 65b01979-che-htmlparser-1-7-6-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package.tgz
+348 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\65b01979-che-htmlparser-1-7-6-package-tgz.lock
+349 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package.tgz
+350 silly lockFile f00609c3-les-jquery-node-modules-location C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location
+351 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location C:\Users\Mark\AppData\Roaming\npm-cache\f00609c3-les-jquery-node-modules-location.lock
+352 silly lockFile b87df7ea-cache-location-0-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package.tgz
+353 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\b87df7ea-cache-location-0-0-1-package-tgz.lock
+354 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package.tgz
+355 silly lockFile 19b359d5-uery-node-modules-xmlhttprequest C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest
+356 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest C:\Users\Mark\AppData\Roaming\npm-cache\19b359d5-uery-node-modules-xmlhttprequest.lock
+357 silly lockFile 0bd8305c-xmlhttprequest-1-4-2-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package.tgz
+358 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\0bd8305c-xmlhttprequest-1-4-2-package-tgz.lock
+359 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package.tgz
+360 silly lockFile 378e96cc-odules-jquery-node-modules-jsdom C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom
+361 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom C:\Users\Mark\AppData\Roaming\npm-cache\378e96cc-odules-jquery-node-modules-jsdom.lock
+362 silly lockFile ebb0ac1a-m-cache-jsdom-0-2-19-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package.tgz
+363 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\ebb0ac1a-m-cache-jsdom-0-2-19-package-tgz.lock
+364 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package.tgz
+365 silly lockFile 955354ec-es-jquery-node-modules-navigator C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator
+366 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator C:\Users\Mark\AppData\Roaming\npm-cache\955354ec-es-jquery-node-modules-navigator.lock
+367 silly lockFile 4b29c1bb-ache-navigator-1-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package.tgz
+368 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\4b29c1bb-ache-navigator-1-0-1-package-tgz.lock
+369 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package.tgz
+370 silly lockFile a91bb1e5-s-jquery-node-modules-contextify C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+371 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify C:\Users\Mark\AppData\Roaming\npm-cache\a91bb1e5-s-jquery-node-modules-contextify.lock
+372 silly lockFile 7c29939c-che-contextify-0-1-4-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package.tgz
+373 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\7c29939c-che-contextify-0-1-4-package-tgz.lock
+374 silly gunzTarPerm modes [ '755', '644' ]
+375 silly gunzTarPerm modes [ '755', '644' ]
+376 silly gunzTarPerm modes [ '755', '644' ]
+377 silly gunzTarPerm modes [ '755', '644' ]
+378 silly gunzTarPerm modes [ '755', '644' ]
+379 silly gunzTarPerm modes [ '755', '644' ]
+380 silly gunzTarPerm extractEntry package.json
+381 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+382 silly gunzTarPerm extractEntry package.json
+383 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+384 silly gunzTarPerm extractEntry package.json
+385 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+386 silly gunzTarPerm extractEntry package.json
+387 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+388 silly gunzTarPerm extractEntry package.json
+389 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+390 silly gunzTarPerm extractEntry README.md
+391 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+392 silly gunzTarPerm extractEntry location.js
+393 silly gunzTarPerm modified mode [ 'location.js', 438, 420 ]
+394 silly gunzTarPerm extractEntry package.json
+395 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+396 silly gunzTarPerm extractEntry README.md
+397 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+398 silly gunzTarPerm extractEntry autotest.watchr
+399 silly gunzTarPerm modified mode [ 'autotest.watchr', 438, 420 ]
+400 silly gunzTarPerm extractEntry README.md
+401 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+402 silly gunzTarPerm extractEntry lib/jsdom.js
+403 silly gunzTarPerm modified mode [ 'lib/jsdom.js', 438, 420 ]
+404 silly gunzTarPerm extractEntry lib/jsdom/utils.js
+405 silly gunzTarPerm modified mode [ 'lib/jsdom/utils.js', 438, 420 ]
+406 silly gunzTarPerm extractEntry README.md
+407 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+408 silly gunzTarPerm extractEntry index.js
+409 silly gunzTarPerm modified mode [ 'index.js', 438, 420 ]
+410 silly gunzTarPerm extractEntry .npmignore
+411 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+412 silly gunzTarPerm extractEntry README.md
+413 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+414 silly gunzTarPerm extractEntry README.md
+415 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+416 silly gunzTarPerm extractEntry LICENSE
+417 silly gunzTarPerm modified mode [ 'LICENSE', 438, 420 ]
+418 silly gunzTarPerm extractEntry lib/jsdom/browser/documentfeatures.js
+419 silly gunzTarPerm modified mode [ 'lib/jsdom/browser/documentfeatures.js', 438, 420 ]
+420 silly gunzTarPerm extractEntry example/demo.js
+421 silly gunzTarPerm modified mode [ 'example/demo.js', 438, 420 ]
+422 silly gunzTarPerm extractEntry lib/XMLHttpRequest.js
+423 silly gunzTarPerm modified mode [ 'lib/XMLHttpRequest.js', 438, 420 ]
+424 silly gunzTarPerm extractEntry binding.gyp
+425 silly gunzTarPerm modified mode [ 'binding.gyp', 438, 420 ]
+426 silly gunzTarPerm extractEntry changelog
+427 silly gunzTarPerm modified mode [ 'changelog', 438, 420 ]
+428 silly gunzTarPerm extractEntry node-htmlparser.old.js
+429 silly gunzTarPerm modified mode [ 'node-htmlparser.old.js', 438, 420 ]
+430 silly gunzTarPerm extractEntry profile.getelement.js
+431 silly gunzTarPerm modified mode [ 'profile.getelement.js', 438, 420 ]
+432 silly gunzTarPerm extractEntry newparser.js
+433 silly gunzTarPerm modified mode [ 'newparser.js', 438, 420 ]
+434 silly gunzTarPerm extractEntry lib/jsdom/browser/domtohtml.js
+435 silly gunzTarPerm modified mode [ 'lib/jsdom/browser/domtohtml.js', 438, 420 ]
+436 silly gunzTarPerm extractEntry lib/jsdom/browser/htmlencoding.js
+437 silly gunzTarPerm modified mode [ 'lib/jsdom/browser/htmlencoding.js', 438, 420 ]
+438 silly gunzTarPerm extractEntry lib/jsdom/browser/htmltodom.js
+439 silly gunzTarPerm modified mode [ 'lib/jsdom/browser/htmltodom.js', 438, 420 ]
+440 silly gunzTarPerm extractEntry rssbug.js
+441 silly gunzTarPerm modified mode [ 'rssbug.js', 438, 420 ]
+442 silly gunzTarPerm extractEntry lib/contextify.js
+443 silly gunzTarPerm modified mode [ 'lib/contextify.js', 438, 420 ]
+444 silly gunzTarPerm extractEntry LICENSE.txt
+445 silly gunzTarPerm modified mode [ 'LICENSE.txt', 438, 420 ]
+446 silly gunzTarPerm extractEntry src/contextify.cc
+447 silly gunzTarPerm modified mode [ 'src/contextify.cc', 438, 420 ]
+448 silly gunzTarPerm extractEntry tests/test-constants.js
+449 silly gunzTarPerm modified mode [ 'tests/test-constants.js', 438, 420 ]
+450 silly gunzTarPerm extractEntry tests/test-events.js
+451 silly gunzTarPerm modified mode [ 'tests/test-events.js', 438, 420 ]
+452 silly gunzTarPerm extractEntry lib/jsdom/browser/index.js
+453 silly gunzTarPerm modified mode [ 'lib/jsdom/browser/index.js', 438, 420 ]
+454 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator\package.json
+455 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location\package.json
+456 silly gunzTarPerm extractEntry lib/jsdom/level1/core.js
+457 silly gunzTarPerm modified mode [ 'lib/jsdom/level1/core.js', 438, 420 ]
+458 silly gunzTarPerm extractEntry test/contextify.js
+459 silly gunzTarPerm modified mode [ 'test/contextify.js', 438, 420 ]
+460 silly gunzTarPerm extractEntry lib/jsdom/level2/core.js
+461 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/core.js', 438, 420 ]
+462 silly gunzTarPerm extractEntry tests/test-exceptions.js
+463 silly gunzTarPerm modified mode [ 'tests/test-exceptions.js', 438, 420 ]
+464 silly gunzTarPerm extractEntry tests/test-headers.js
+465 silly gunzTarPerm modified mode [ 'tests/test-headers.js', 438, 420 ]
+466 silly gunzTarPerm extractEntry runtests.js
+467 silly gunzTarPerm modified mode [ 'runtests.js', 438, 420 ]
+468 silly gunzTarPerm extractEntry runtests.min.js
+469 silly gunzTarPerm modified mode [ 'runtests.min.js', 438, 420 ]
+470 silly gunzTarPerm extractEntry lib/jsdom/level2/events.js
+471 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/events.js', 438, 420 ]
+472 silly lockFile 955354ec-es-jquery-node-modules-navigator C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator
+473 silly lockFile 955354ec-es-jquery-node-modules-navigator C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator
+474 silly lockFile f00609c3-les-jquery-node-modules-location C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location
+475 silly lockFile f00609c3-les-jquery-node-modules-location C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location
+476 silly lockFile 4b29c1bb-ache-navigator-1-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package.tgz
+477 silly lockFile 4b29c1bb-ache-navigator-1-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\navigator\1.0.1\package.tgz
+478 silly lockFile b87df7ea-cache-location-0-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package.tgz
+479 silly lockFile b87df7ea-cache-location-0-0-1-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\location\0.0.1\package.tgz
+480 silly gunzTarPerm extractEntry wscript
+481 silly gunzTarPerm modified mode [ 'wscript', 438, 420 ]
+482 silly gunzTarPerm extractEntry tests/test-request-methods.js
+483 silly gunzTarPerm modified mode [ 'tests/test-request-methods.js', 438, 420 ]
+484 silly gunzTarPerm extractEntry tests/test-request-protocols.js
+485 silly gunzTarPerm modified mode [ 'tests/test-request-protocols.js', 438, 420 ]
+486 silly gunzTarPerm extractEntry tests/testdata.txt
+487 silly gunzTarPerm modified mode [ 'tests/testdata.txt', 438, 420 ]
+488 info preinstall navigator@1.0.1
+489 info preinstall location@0.0.1
+490 silly gunzTarPerm extractEntry runtests_new.js
+491 silly gunzTarPerm modified mode [ 'runtests_new.js', 438, 420 ]
+492 silly gunzTarPerm extractEntry snippet.js
+493 silly gunzTarPerm modified mode [ 'snippet.js', 438, 420 ]
+494 silly gunzTarPerm extractEntry test01.js
+495 silly gunzTarPerm modified mode [ 'test01.js', 438, 420 ]
+496 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator\package.json
+497 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location\package.json
+498 verbose readDependencies using package.json deps
+499 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator\package.json
+500 verbose readDependencies using package.json deps
+501 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location\package.json
+502 verbose readDependencies using package.json deps
+503 silly resolved []
+504 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator
+505 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator
+506 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\navigator\package.json
+507 verbose linkStuff [ false,
+507 verbose linkStuff   false,
+507 verbose linkStuff   false,
+507 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules' ]
+508 info linkStuff navigator@1.0.1
+509 verbose linkBins navigator@1.0.1
+510 verbose linkMans navigator@1.0.1
+511 verbose rebuildBundles navigator@1.0.1
+512 verbose readDependencies using package.json deps
+513 silly resolved []
+514 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location
+515 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location
+516 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\location\package.json
+517 silly gunzTarPerm extractEntry lib/jsdom/level2/html.js
+518 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/html.js', 438, 420 ]
+519 verbose linkStuff [ false,
+519 verbose linkStuff   false,
+519 verbose linkStuff   false,
+519 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules' ]
+520 info linkStuff location@0.0.1
+521 verbose linkBins location@0.0.1
+522 verbose linkMans location@0.0.1
+523 verbose rebuildBundles location@0.0.1
+524 info install navigator@1.0.1
+525 silly gunzTarPerm extractEntry json2.js
+526 silly gunzTarPerm modified mode [ 'json2.js', 438, 420 ]
+527 info install location@0.0.1
+528 info postinstall navigator@1.0.1
+529 info postinstall location@0.0.1
+530 silly gunzTarPerm extractEntry lib/jsdom/level2/index.js
+531 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/index.js', 438, 420 ]
+532 silly gunzTarPerm extractEntry profile.js
+533 silly gunzTarPerm modified mode [ 'profile.js', 438, 420 ]
+534 silly gunzTarPerm extractEntry lib/jsdom/level2/style.js
+535 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/style.js', 438, 420 ]
+536 silly gunzTarPerm extractEntry utils_example.js
+537 silly gunzTarPerm modified mode [ 'utils_example.js', 438, 420 ]
+538 silly gunzTarPerm extractEntry lib/jsdom/level2/languages/javascript.js
+539 silly gunzTarPerm modified mode [ 'lib/jsdom/level2/languages/javascript.js', 438, 420 ]
+540 silly gunzTarPerm extractEntry profile
+541 silly gunzTarPerm modified mode [ 'profile', 438, 420 ]
+542 silly gunzTarPerm extractEntry CHANGELOG
+543 silly gunzTarPerm modified mode [ 'CHANGELOG', 438, 420 ]
+544 silly gunzTarPerm extractEntry profile.getelement.txt
+545 silly gunzTarPerm modified mode [ 'profile.getelement.txt', 438, 420 ]
+546 silly gunzTarPerm extractEntry .project.bak
+547 silly gunzTarPerm modified mode [ '.project.bak', 438, 420 ]
+548 silly gunzTarPerm extractEntry profileresults.txt
+549 silly gunzTarPerm modified mode [ 'profileresults.txt', 438, 420 ]
+550 silly gunzTarPerm extractEntry pulls/node-htmlparser/package.json
+551 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/package.json', 438, 420 ]
+552 silly gunzTarPerm extractEntry lib/jsdom/level3/core.js
+553 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/core.js', 438, 420 ]
+554 silly gunzTarPerm extractEntry lib/jsdom/level3/events.js
+555 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/events.js', 438, 420 ]
+556 silly gunzTarPerm extractEntry pulls/node-htmlparser/README.md
+557 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/README.md', 438, 420 ]
+558 silly gunzTarPerm extractEntry pulls/node-htmlparser/LICENSE
+559 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/LICENSE', 438, 420 ]
+560 silly gunzTarPerm extractEntry pulls/node-htmlparser/utils_example.js
+561 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/utils_example.js', 438, 420 ]
+562 silly gunzTarPerm extractEntry pulls/node-htmlparser/profile.js
+563 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/profile.js', 438, 420 ]
+564 silly gunzTarPerm extractEntry lib/jsdom/level3/html.js
+565 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/html.js', 438, 420 ]
+566 silly gunzTarPerm extractEntry lib/jsdom/level3/index.js
+567 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/index.js', 438, 420 ]
+568 silly gunzTarPerm extractEntry pulls/node-htmlparser/json2.js
+569 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/json2.js', 438, 420 ]
+570 silly gunzTarPerm extractEntry pulls/node-htmlparser/runtests.js
+571 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/runtests.js', 438, 420 ]
+572 silly gunzTarPerm extractEntry lib/jsdom/level3/ls.js
+573 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/ls.js', 438, 420 ]
+574 silly gunzTarPerm extractEntry lib/jsdom/level3/xpath.js
+575 silly gunzTarPerm modified mode [ 'lib/jsdom/level3/xpath.js', 438, 420 ]
+576 silly gunzTarPerm extractEntry lib/jsdom/selectors/index.js
+577 silly gunzTarPerm modified mode [ 'lib/jsdom/selectors/index.js', 438, 420 ]
+578 silly gunzTarPerm extractEntry lib/jsdom/selectors/sizzle.js
+579 silly gunzTarPerm modified mode [ 'lib/jsdom/selectors/sizzle.js', 438, 420 ]
+580 silly gunzTarPerm extractEntry pulls/node-htmlparser/runtests.min.js
+581 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/runtests.min.js', 438, 420 ]
+582 silly gunzTarPerm extractEntry pulls/node-htmlparser/snippet.js
+583 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/snippet.js', 438, 420 ]
+584 silly gunzTarPerm extractEntry LICENSE.txt
+585 silly gunzTarPerm modified mode [ 'LICENSE.txt', 438, 420 ]
+586 silly gunzTarPerm extractEntry pulls/node-htmlparser/runtests.min.html
+587 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/runtests.min.html', 438, 420 ]
+588 silly gunzTarPerm extractEntry pulls/node-htmlparser/CHANGELOG
+589 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/CHANGELOG', 438, 420 ]
+590 silly gunzTarPerm extractEntry pulls/node-htmlparser/lib/node-htmlparser.js
+591 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/lib/node-htmlparser.js', 438, 420 ]
+592 silly gunzTarPerm extractEntry pulls/node-htmlparser/lib/node-htmlparser.min.js
+593 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/lib/node-htmlparser.min.js', 438, 420 ]
+594 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/01-basic.js
+595 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/01-basic.js', 438, 420 ]
+596 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/08-extra_spaces_in_tag.js
+597 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/08-extra_spaces_in_tag.js',
+597 silly gunzTarPerm   438,
+597 silly gunzTarPerm   420 ]
+598 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/09-unquoted_attrib.js
+599 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/09-unquoted_attrib.js', 438, 420 ]
+600 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+601 silly lockFile a91bb1e5-s-jquery-node-modules-contextify C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+602 silly lockFile a91bb1e5-s-jquery-node-modules-contextify C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+603 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest\package.json
+604 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/10-singular_attribute.js
+605 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/10-singular_attribute.js',
+605 silly gunzTarPerm   438,
+605 silly gunzTarPerm   420 ]
+606 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/07-unescaped_in_style.js
+607 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/07-unescaped_in_style.js',
+607 silly gunzTarPerm   438,
+607 silly gunzTarPerm   420 ]
+608 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/12-text_only.js
+609 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/12-text_only.js', 438, 420 ]
+610 silly lockFile 7c29939c-che-contextify-0-1-4-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package.tgz
+611 silly lockFile 7c29939c-che-contextify-0-1-4-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\contextify\0.1.4\package.tgz
+612 silly lockFile 19b359d5-uery-node-modules-xmlhttprequest C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest
+613 silly lockFile 19b359d5-uery-node-modules-xmlhttprequest C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest
+614 silly lockFile 0bd8305c-xmlhttprequest-1-4-2-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package.tgz
+615 silly lockFile 0bd8305c-xmlhttprequest-1-4-2-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\xmlhttprequest\1.4.2\package.tgz
+616 info preinstall contextify@0.1.4
+617 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+618 verbose readDependencies using package.json deps
+619 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+620 verbose readDependencies using package.json deps
+621 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/13-comment_in_text.js
+622 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/13-comment_in_text.js', 438, 420 ]
+623 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/14-comment_in_text_in_script.js
+624 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/14-comment_in_text_in_script.js',
+624 silly gunzTarPerm   438,
+624 silly gunzTarPerm   420 ]
+625 info preinstall xmlhttprequest@1.4.2
+626 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest\package.json
+627 verbose readDependencies using package.json deps
+628 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest\package.json
+629 verbose readDependencies using package.json deps
+630 silly resolved []
+631 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest
+632 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest
+633 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\xmlhttprequest\package.json
+634 verbose linkStuff [ false,
+634 verbose linkStuff   false,
+634 verbose linkStuff   false,
+634 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules' ]
+635 info linkStuff xmlhttprequest@1.4.2
+636 verbose linkBins xmlhttprequest@1.4.2
+637 verbose linkMans xmlhttprequest@1.4.2
+638 verbose rebuildBundles xmlhttprequest@1.4.2
+639 info install xmlhttprequest@1.4.2
+640 info postinstall xmlhttprequest@1.4.2
+641 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/15-non-verbose.js
+642 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/15-non-verbose.js', 438, 420 ]
+643 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/16-ignore_whitespace.js
+644 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/16-ignore_whitespace.js',
+644 silly gunzTarPerm   438,
+644 silly gunzTarPerm   420 ]
+645 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/06-comment_in_script.js
+646 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/06-comment_in_script.js',
+646 silly gunzTarPerm   438,
+646 silly gunzTarPerm   420 ]
+647 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/17-xml_namespace.js
+648 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/17-xml_namespace.js', 438, 420 ]
+649 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/05-tags_in_comment.js
+650 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/05-tags_in_comment.js', 438, 420 ]
+651 verbose cache add [ 'bindings@*', null ]
+652 verbose cache add name=undefined spec="bindings@*" args=["bindings@*",null]
+653 verbose parsed url { pathname: 'bindings@*',
+653 verbose parsed url   path: 'bindings@*',
+653 verbose parsed url   href: 'bindings@*' }
+654 verbose cache add name="bindings" spec="*" args=["bindings","*"]
+655 verbose parsed url { pathname: '*', path: '*', href: '*' }
+656 verbose addNamed [ 'bindings', '*' ]
+657 verbose addNamed [ null, '' ]
+658 silly lockFile a3858fc2-bindings bindings@*
+659 verbose lock bindings@* C:\Users\Mark\AppData\Roaming\npm-cache\a3858fc2-bindings.lock
+660 silly addNameRange { name: 'bindings', range: '', hasData: false }
+661 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/18-enforce_empty_tags.js
+662 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/18-enforce_empty_tags.js',
+662 silly gunzTarPerm   438,
+662 silly gunzTarPerm   420 ]
+663 verbose url raw bindings
+664 verbose url resolving [ 'https://registry.npmjs.org/', './bindings' ]
+665 verbose url resolved https://registry.npmjs.org/bindings
+666 info trying registry request attempt 1 at 16:26:09
+667 verbose etag "AJP945UWQI28AMS5Q0GDA9P9H"
+668 http GET https://registry.npmjs.org/bindings
+669 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/04-unescaped_in_script.js
+670 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/04-unescaped_in_script.js',
+670 silly gunzTarPerm   438,
+670 silly gunzTarPerm   420 ]
+671 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/19-ignore_empty_tags.js
+672 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/19-ignore_empty_tags.js',
+672 silly gunzTarPerm   438,
+672 silly gunzTarPerm   420 ]
+673 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/03-single_tag_2.js
+674 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/03-single_tag_2.js', 438, 420 ]
+675 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/20-rss.js
+676 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/20-rss.js', 438, 420 ]
+677 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/02-single_tag_1.js
+678 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/02-single_tag_1.js', 438, 420 ]
+679 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/21-atom.js
+680 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/21-atom.js', 438, 420 ]
+681 silly gunzTarPerm extractEntry pulls/node-htmlparser/tests/11-text_outside_tags.js
+682 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/tests/11-text_outside_tags.js',
+682 silly gunzTarPerm   438,
+682 silly gunzTarPerm   420 ]
+683 silly gunzTarPerm extractEntry pulls/node-htmlparser/runtests.html
+684 silly gunzTarPerm modified mode [ 'pulls/node-htmlparser/runtests.html', 438, 420 ]
+685 silly gunzTarPerm extractEntry .project
+686 silly gunzTarPerm modified mode [ '.project', 438, 420 ]
+687 silly gunzTarPerm extractEntry lib/htmlparser.js
+688 silly gunzTarPerm modified mode [ 'lib/htmlparser.js', 438, 420 ]
+689 silly gunzTarPerm extractEntry lib/htmlparser.min.js
+690 silly gunzTarPerm modified mode [ 'lib/htmlparser.min.js', 438, 420 ]
+691 silly gunzTarPerm extractEntry lib/node-htmlparser.js
+692 silly gunzTarPerm modified mode [ 'lib/node-htmlparser.js', 438, 420 ]
+693 silly gunzTarPerm extractEntry lib/node-htmlparser.min.js
+694 silly gunzTarPerm modified mode [ 'lib/node-htmlparser.min.js', 438, 420 ]
+695 silly gunzTarPerm extractEntry rssbug.rss
+696 silly gunzTarPerm modified mode [ 'rssbug.rss', 438, 420 ]
+697 silly gunzTarPerm extractEntry runtests.html
+698 silly gunzTarPerm modified mode [ 'runtests.html', 438, 420 ]
+699 silly gunzTarPerm extractEntry libxmljs.node
+700 silly gunzTarPerm modified mode [ 'libxmljs.node', 438, 420 ]
+701 silly gunzTarPerm extractEntry runtests.min.html
+702 silly gunzTarPerm modified mode [ 'runtests.min.html', 438, 420 ]
+703 silly gunzTarPerm extractEntry .settings/.jsdtscope
+704 silly gunzTarPerm modified mode [ '.settings/.jsdtscope', 438, 420 ]
+705 silly gunzTarPerm extractEntry .settings/org.eclipse.core.resources.prefs
+706 silly gunzTarPerm modified mode [ '.settings/org.eclipse.core.resources.prefs', 438, 420 ]
+707 silly gunzTarPerm extractEntry .settings/org.eclipse.wst.jsdt.ui.superType.container
+708 silly gunzTarPerm modified mode [ '.settings/org.eclipse.wst.jsdt.ui.superType.container',
+708 silly gunzTarPerm   438,
+708 silly gunzTarPerm   420 ]
+709 silly gunzTarPerm extractEntry .settings/org.eclipse.wst.jsdt.ui.superType.name
+710 silly gunzTarPerm modified mode [ '.settings/org.eclipse.wst.jsdt.ui.superType.name', 438, 420 ]
+711 silly gunzTarPerm extractEntry new/compat.js
+712 silly gunzTarPerm modified mode [ 'new/compat.js', 438, 420 ]
+713 silly gunzTarPerm extractEntry new/htmlparser.js
+714 silly gunzTarPerm modified mode [ 'new/htmlparser.js', 438, 420 ]
+715 silly gunzTarPerm extractEntry new/test01.js
+716 silly gunzTarPerm modified mode [ 'new/test01.js', 438, 420 ]
+717 silly gunzTarPerm extractEntry new/test02.js
+718 silly gunzTarPerm modified mode [ 'new/test02.js', 438, 420 ]
+719 silly gunzTarPerm extractEntry new/a
+720 silly gunzTarPerm modified mode [ 'new/a', 438, 420 ]
+721 silly gunzTarPerm extractEntry new/b
+722 silly gunzTarPerm modified mode [ 'new/b', 438, 420 ]
+723 silly gunzTarPerm extractEntry new/parser.zip
+724 silly gunzTarPerm modified mode [ 'new/parser.zip', 438, 420 ]
+725 silly gunzTarPerm extractEntry a
+726 silly gunzTarPerm modified mode [ 'a', 438, 420 ]
+727 silly gunzTarPerm extractEntry b
+728 silly gunzTarPerm modified mode [ 'b', 438, 420 ]
+729 silly gunzTarPerm extractEntry testdata/.tmp_test.html.2854~
+730 silly gunzTarPerm modified mode [ 'testdata/.tmp_test.html.2854~', 438, 420 ]
+731 silly gunzTarPerm extractEntry testdata/.tmp_trackerchecker.html.65425~
+732 silly gunzTarPerm modified mode [ 'testdata/.tmp_trackerchecker.html.65425~', 438, 420 ]
+733 silly gunzTarPerm extractEntry testdata/.tmp_trackerchecker.html.76922~
+734 silly gunzTarPerm modified mode [ 'testdata/.tmp_trackerchecker.html.76922~', 438, 420 ]
+735 silly gunzTarPerm extractEntry testdata/.tmp_trackerchecker.html.80022~
+736 silly gunzTarPerm modified mode [ 'testdata/.tmp_trackerchecker.html.80022~', 438, 420 ]
+737 silly gunzTarPerm extractEntry testdata/.tmp_trackerchecker2.html.51378~
+738 silly gunzTarPerm modified mode [ 'testdata/.tmp_trackerchecker2.html.51378~', 438, 420 ]
+739 silly gunzTarPerm extractEntry testdata/.tmp_trackerchecker2.html.75287~
+740 silly gunzTarPerm modified mode [ 'testdata/.tmp_trackerchecker2.html.75287~', 438, 420 ]
+741 silly gunzTarPerm extractEntry testdata/api.html
+742 silly gunzTarPerm modified mode [ 'testdata/api.html', 438, 420 ]
+743 silly gunzTarPerm extractEntry testdata/getelement.html
+744 silly gunzTarPerm modified mode [ 'testdata/getelement.html', 438, 420 ]
+745 silly gunzTarPerm extractEntry testdata/trackerchecker.html
+746 silly gunzTarPerm modified mode [ 'testdata/trackerchecker.html', 438, 420 ]
+747 silly gunzTarPerm extractEntry tests/01-basic.js
+748 silly gunzTarPerm modified mode [ 'tests/01-basic.js', 438, 420 ]
+749 silly gunzTarPerm extractEntry tests/08-extra_spaces_in_tag.js
+750 silly gunzTarPerm modified mode [ 'tests/08-extra_spaces_in_tag.js', 438, 420 ]
+751 silly gunzTarPerm extractEntry tests/09-unquoted_attrib.js
+752 silly gunzTarPerm modified mode [ 'tests/09-unquoted_attrib.js', 438, 420 ]
+753 silly gunzTarPerm extractEntry tests/10-singular_attribute.js
+754 silly gunzTarPerm modified mode [ 'tests/10-singular_attribute.js', 438, 420 ]
+755 silly gunzTarPerm extractEntry tests/11-text_outside_tags.js
+756 silly gunzTarPerm modified mode [ 'tests/11-text_outside_tags.js', 438, 420 ]
+757 silly gunzTarPerm extractEntry tests/07-unescaped_in_style.js
+758 silly gunzTarPerm modified mode [ 'tests/07-unescaped_in_style.js', 438, 420 ]
+759 silly gunzTarPerm extractEntry tests/13-comment_in_text.js
+760 silly gunzTarPerm modified mode [ 'tests/13-comment_in_text.js', 438, 420 ]
+761 silly gunzTarPerm extractEntry tests/14-comment_in_text_in_script.js
+762 silly gunzTarPerm modified mode [ 'tests/14-comment_in_text_in_script.js', 438, 420 ]
+763 silly gunzTarPerm extractEntry tests/15-non-verbose.js
+764 silly gunzTarPerm modified mode [ 'tests/15-non-verbose.js', 438, 420 ]
+765 silly gunzTarPerm extractEntry tests/16-ignore_whitespace.js
+766 silly gunzTarPerm modified mode [ 'tests/16-ignore_whitespace.js', 438, 420 ]
+767 silly gunzTarPerm extractEntry tests/17-xml_namespace.js
+768 silly gunzTarPerm modified mode [ 'tests/17-xml_namespace.js', 438, 420 ]
+769 silly gunzTarPerm extractEntry tests/06-comment_in_script.js
+770 silly gunzTarPerm modified mode [ 'tests/06-comment_in_script.js', 438, 420 ]
+771 silly gunzTarPerm extractEntry tests/18-enforce_empty_tags.js
+772 silly gunzTarPerm modified mode [ 'tests/18-enforce_empty_tags.js', 438, 420 ]
+773 silly gunzTarPerm extractEntry tests/05-tags_in_comment.js
+774 silly gunzTarPerm modified mode [ 'tests/05-tags_in_comment.js', 438, 420 ]
+775 silly gunzTarPerm extractEntry tests/19-ignore_empty_tags.js
+776 silly gunzTarPerm modified mode [ 'tests/19-ignore_empty_tags.js', 438, 420 ]
+777 silly gunzTarPerm extractEntry tests/04-unescaped_in_script.js
+778 silly gunzTarPerm modified mode [ 'tests/04-unescaped_in_script.js', 438, 420 ]
+779 silly gunzTarPerm extractEntry tests/20-rss.js
+780 silly gunzTarPerm modified mode [ 'tests/20-rss.js', 438, 420 ]
+781 silly gunzTarPerm extractEntry tests/03-single_tag_2.js
+782 silly gunzTarPerm modified mode [ 'tests/03-single_tag_2.js', 438, 420 ]
+783 silly gunzTarPerm extractEntry tests/21-atom.js
+784 silly gunzTarPerm modified mode [ 'tests/21-atom.js', 438, 420 ]
+785 silly gunzTarPerm extractEntry tests/02-single_tag_1.js
+786 silly gunzTarPerm modified mode [ 'tests/02-single_tag_1.js', 438, 420 ]
+787 silly gunzTarPerm extractEntry tests/22-position_data.js
+788 silly gunzTarPerm modified mode [ 'tests/22-position_data.js', 438, 420 ]
+789 silly gunzTarPerm extractEntry tests/12-text_only.js
+790 silly gunzTarPerm modified mode [ 'tests/12-text_only.js', 438, 420 ]
+791 silly gunzTarPerm extractEntry tmp/snippet.js
+792 silly gunzTarPerm modified mode [ 'tmp/snippet.js', 438, 420 ]
+793 silly gunzTarPerm extractEntry c
+794 silly gunzTarPerm modified mode [ 'c', 438, 420 ]
+795 silly gunzTarPerm extractEntry v8.log
+796 silly gunzTarPerm modified mode [ 'v8.log', 438, 420 ]
+797 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom\package.json
+798 silly lockFile 378e96cc-odules-jquery-node-modules-jsdom C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom
+799 silly lockFile 378e96cc-odules-jquery-node-modules-jsdom C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom
+800 silly lockFile ebb0ac1a-m-cache-jsdom-0-2-19-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package.tgz
+801 silly lockFile ebb0ac1a-m-cache-jsdom-0-2-19-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\jsdom\0.2.19\package.tgz
+802 info preinstall jsdom@0.2.19
+803 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom\package.json
+804 verbose readDependencies using package.json deps
+805 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\jsdom\package.json
+806 verbose readDependencies using package.json deps
+807 verbose cache add [ 'request@2.x', null ]
+808 verbose cache add name=undefined spec="request@2.x" args=["request@2.x",null]
+809 verbose parsed url { pathname: 'request@2.x',
+809 verbose parsed url   path: 'request@2.x',
+809 verbose parsed url   href: 'request@2.x' }
+810 verbose cache add name="request" spec="2.x" args=["request","2.x"]
+811 verbose parsed url { pathname: '2.x', path: '2.x', href: '2.x' }
+812 verbose addNamed [ 'request', '2.x' ]
+813 verbose addNamed [ null, '>=2.0.0- <3.0.0-' ]
+814 silly lockFile c23ecae0-request-2-x request@2.x
+815 verbose lock request@2.x C:\Users\Mark\AppData\Roaming\npm-cache\c23ecae0-request-2-x.lock
+816 verbose cache add [ 'cssom@0.2.x', null ]
+817 verbose cache add name=undefined spec="cssom@0.2.x" args=["cssom@0.2.x",null]
+818 verbose parsed url { pathname: 'cssom@0.2.x',
+818 verbose parsed url   path: 'cssom@0.2.x',
+818 verbose parsed url   href: 'cssom@0.2.x' }
+819 verbose cache add name="cssom" spec="0.2.x" args=["cssom","0.2.x"]
+820 verbose parsed url { pathname: '0.2.x', path: '0.2.x', href: '0.2.x' }
+821 verbose addNamed [ 'cssom', '0.2.x' ]
+822 verbose addNamed [ null, '>=0.2.0- <0.3.0-' ]
+823 silly lockFile c83aab2e-cssom-0-2-x cssom@0.2.x
+824 verbose lock cssom@0.2.x C:\Users\Mark\AppData\Roaming\npm-cache\c83aab2e-cssom-0-2-x.lock
+825 verbose cache add [ 'cssstyle@>=0.2.3', null ]
+826 verbose cache add name=undefined spec="cssstyle@>=0.2.3" args=["cssstyle@>=0.2.3",null]
+827 verbose parsed url { pathname: 'cssstyle@%3E=0.2.3',
+827 verbose parsed url   path: 'cssstyle@%3E=0.2.3',
+827 verbose parsed url   href: 'cssstyle@%3E=0.2.3' }
+828 verbose cache add name="cssstyle" spec=">=0.2.3" args=["cssstyle",">=0.2.3"]
+829 verbose parsed url { pathname: '%3E=0.2.3', path: '%3E=0.2.3', href: '%3E=0.2.3' }
+830 verbose addNamed [ 'cssstyle', '>=0.2.3' ]
+831 verbose addNamed [ null, '>=0.2.3' ]
+832 silly lockFile 76808a6b-cssstyle-0-2-3 cssstyle@>=0.2.3
+833 verbose lock cssstyle@>=0.2.3 C:\Users\Mark\AppData\Roaming\npm-cache\76808a6b-cssstyle-0-2-3.lock
+834 silly addNameRange { name: 'request', range: '>=2.0.0- <3.0.0-', hasData: false }
+835 silly addNameRange { name: 'cssom', range: '>=0.2.0- <0.3.0-', hasData: false }
+836 silly addNameRange { name: 'cssstyle', range: '>=0.2.3', hasData: false }
+837 verbose url raw cssom
+838 verbose url resolving [ 'https://registry.npmjs.org/', './cssom' ]
+839 verbose url resolved https://registry.npmjs.org/cssom
+840 info trying registry request attempt 1 at 16:26:09
+841 verbose etag "AK390UV1GNYJUNO082SKKC01J"
+842 http GET https://registry.npmjs.org/cssom
+843 verbose url raw request
+844 verbose url resolving [ 'https://registry.npmjs.org/', './request' ]
+845 verbose url resolved https://registry.npmjs.org/request
+846 info trying registry request attempt 1 at 16:26:09
+847 verbose etag "3PUB8MOMHWDN2TWDE7K402DCM"
+848 http GET https://registry.npmjs.org/request
+849 verbose url raw cssstyle
+850 verbose url resolving [ 'https://registry.npmjs.org/', './cssstyle' ]
+851 verbose url resolved https://registry.npmjs.org/cssstyle
+852 info trying registry request attempt 1 at 16:26:09
+853 verbose etag "92KQG7JCYONT294YZDZUY4HE8"
+854 http GET https://registry.npmjs.org/cssstyle
+855 http 304 https://registry.npmjs.org/bindings
+856 silly registry.get cb [ 304,
+856 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+856 silly registry.get     etag: '"AJP945UWQI28AMS5Q0GDA9P9H"',
+856 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:13 GMT',
+856 silly registry.get     'content-length': '0' } ]
+857 verbose etag bindings from cache
+858 silly addNameRange number 2 { name: 'bindings', range: '', hasData: true }
+859 silly addNameRange versions [ 'bindings',
+859 silly addNameRange   [ '0.0.1',
+859 silly addNameRange     '0.1.0',
+859 silly addNameRange     '0.1.1',
+859 silly addNameRange     '0.2.0',
+859 silly addNameRange     '0.2.1',
+859 silly addNameRange     '0.2.2',
+859 silly addNameRange     '0.2.3',
+859 silly addNameRange     '0.2.4',
+859 silly addNameRange     '0.3.0',
+859 silly addNameRange     '0.4.0',
+859 silly addNameRange     '1.0.0' ] ]
+860 verbose addNamed [ 'bindings', '1.0.0' ]
+861 verbose addNamed [ '1.0.0', '1.0.0' ]
+862 silly lockFile f01e5454-bindings-1-0-0 bindings@1.0.0
+863 verbose lock bindings@1.0.0 C:\Users\Mark\AppData\Roaming\npm-cache\f01e5454-bindings-1-0-0.lock
+864 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package\package.json
+865 silly lockFile f01e5454-bindings-1-0-0 bindings@1.0.0
+866 silly lockFile f01e5454-bindings-1-0-0 bindings@1.0.0
+867 silly lockFile a3858fc2-bindings bindings@*
+868 silly lockFile a3858fc2-bindings bindings@*
+869 silly resolved [ { name: 'bindings',
+869 silly resolved     description: 'Helper module for loading your native module\'s .node file',
+869 silly resolved     keywords: [ 'native', 'addon', 'bindings', 'gyp', 'waf', 'c', 'c++' ],
+869 silly resolved     version: '1.0.0',
+869 silly resolved     author:
+869 silly resolved      { name: 'Nathan Rajlich',
+869 silly resolved        email: 'nathan@tootallnate.net',
+869 silly resolved        url: 'http://tootallnate.net' },
+869 silly resolved     repository:
+869 silly resolved      { type: 'git',
+869 silly resolved        url: 'git://github.com/TooTallNate/node-bindings.git' },
+869 silly resolved     main: './bindings.js',
+869 silly resolved     readme: 'node-bindings\n=============\n### Helper module for loading your native module\'s .node file\n\nThis is a helper module for authors of Node.js native addon modules.\nIt is basically the "swiss army knife" of `require()`ing your native module\'s\n`.node` file.\n\nThroughout the course of Node\'s native addon history, addons have ended up being\ncompiled in a variety of different places, depending on which build tool and which\nversion of node was used. To make matters worse, now the _gyp_ build tool can\nproduce either a _Release_ or _Debug_ build, each being built into different\nlocations.\n\nThis module checks _all_ the possible locations that a native addon would be built\nat, and returns the first one that loads successfully.\n\n\nInstallation\n------------\n\nInstall with `npm`:\n\n``` bash\n$ npm install bindings\n```\n\nOr add it to the `"dependencies"` section of your _package.json_ file.\n\n\nExample\n-------\n\n`require()`ing the proper bindings file for the current node version, platform\nand architecture is as simple as:\n\n``` js\nvar bindings = require(\'bindings\')(\'binding.node\')\n\n// Use your bindings defined in your C files\nbindings.your_c_function()\n```\n\n\nNice Error Output\n-----------------\n\nWhen the `.node` file could not be loaded, `node-bindings` throws an Error with\na nice error message telling you exactly what was tried. You can also check the\n`err.tries` Array property.\n\n```\nError: Could not load the bindings file. Tried:\n → /Users/nrajlich/ref/build/binding.node\n → /Users/nrajlich/ref/build/Debug/binding.node\n → /Users/nrajlich/ref/build/Release/binding.node\n → /Users/nrajlich/ref/out/Debug/binding.node\n → /Users/nrajlich/ref/Debug/binding.node\n → /Users/nrajlich/ref/out/Release/binding.node\n → /Users/nrajlich/ref/Release/binding.node\n → /Users/nrajlich/ref/build/default/binding.node\n → /Users/nrajlich/ref/compiled/0.8.2/darwin/x64/binding.node\n    at bindings (/Users/nrajlich/ref/node_modules/bindings/bindings.js:84:13)\n    at Object.<anonymous> (/Users/nrajlich/ref/lib/ref.js:5:47)\n    at Module._compile (module.js:449:26)\n    at Object.Module._extensions..js (module.js:467:10)\n    at Module.load (module.js:356:32)\n    at Function.Module._load (module.js:312:12)\n    ...\n```\n\n\nLicense\n-------\n\n(The MIT License)\n\nCopyright (c) 2012 Nathan Rajlich &lt;nathan@tootallnate.net&gt;\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\'Software\'), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \'AS IS\', WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+869 silly resolved     readmeFilename: 'README.md',
+869 silly resolved     _id: 'bindings@1.0.0',
+869 silly resolved     _from: 'bindings@*' } ]
+870 info install bindings@1.0.0 into C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+871 info installOne bindings@1.0.0
+872 verbose from cache C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package\package.json
+873 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings unbuild
+874 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings\package.json
+875 verbose tar unpack C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package.tgz
+876 silly lockFile da8a135a-contextify-node-modules-bindings C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings
+877 verbose lock C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings C:\Users\Mark\AppData\Roaming\npm-cache\da8a135a-contextify-node-modules-bindings.lock
+878 silly lockFile beea8a4c-cache-bindings-1-0-0-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package.tgz
+879 verbose lock C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package.tgz C:\Users\Mark\AppData\Roaming\npm-cache\beea8a4c-cache-bindings-1-0-0-package-tgz.lock
+880 silly gunzTarPerm modes [ '755', '644' ]
+881 silly gunzTarPerm extractEntry package.json
+882 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+883 silly gunzTarPerm extractEntry README.md
+884 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+885 silly gunzTarPerm extractEntry bindings.js
+886 silly gunzTarPerm modified mode [ 'bindings.js', 438, 420 ]
+887 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings\package.json
+888 silly lockFile da8a135a-contextify-node-modules-bindings C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings
+889 silly lockFile da8a135a-contextify-node-modules-bindings C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings
+890 silly lockFile beea8a4c-cache-bindings-1-0-0-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package.tgz
+891 silly lockFile beea8a4c-cache-bindings-1-0-0-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\bindings\1.0.0\package.tgz
+892 info preinstall bindings@1.0.0
+893 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings\package.json
+894 verbose readDependencies using package.json deps
+895 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings\package.json
+896 verbose readDependencies using package.json deps
+897 silly resolved []
+898 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings
+899 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings
+900 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\node_modules\bindings\package.json
+901 verbose linkStuff [ false,
+901 verbose linkStuff   false,
+901 verbose linkStuff   false,
+901 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules\\contextify\\node_modules' ]
+902 info linkStuff bindings@1.0.0
+903 verbose linkBins bindings@1.0.0
+904 verbose linkMans bindings@1.0.0
+905 verbose rebuildBundles bindings@1.0.0
+906 info install bindings@1.0.0
+907 info postinstall bindings@1.0.0
+908 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+909 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify
+910 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+911 verbose linkStuff [ false,
+911 verbose linkStuff   false,
+911 verbose linkStuff   false,
+911 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules' ]
+912 info linkStuff contextify@0.1.4
+913 verbose linkBins contextify@0.1.4
+914 verbose linkMans contextify@0.1.4
+915 verbose rebuildBundles contextify@0.1.4
+916 verbose rebuildBundles [ 'bindings' ]
+917 info install contextify@0.1.4
+918 verbose unsafe-perm in lifecycle true
+919 silly exec cmd "/c" "node-gyp rebuild"
+920 silly cmd,/c,node-gyp rebuild,C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify spawning
+921 verbose read json C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser\package.json
+922 silly lockFile bccf8dbb-s-jquery-node-modules-htmlparser C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser
+923 silly lockFile bccf8dbb-s-jquery-node-modules-htmlparser C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser
+924 silly lockFile 65b01979-che-htmlparser-1-7-6-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package.tgz
+925 silly lockFile 65b01979-che-htmlparser-1-7-6-package-tgz C:\Users\Mark\AppData\Roaming\npm-cache\htmlparser\1.7.6\package.tgz
+926 info preinstall htmlparser@1.7.6
+927 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser\package.json
+928 verbose readDependencies using package.json deps
+929 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser\package.json
+930 verbose readDependencies using package.json deps
+931 silly resolved []
+932 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser
+933 info build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser
+934 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\htmlparser\package.json
+935 verbose linkStuff [ false,
+935 verbose linkStuff   false,
+935 verbose linkStuff   false,
+935 verbose linkStuff   'C:\\Users\\Mark\\Documents\\GitHub\\madmin\\node_modules\\jquery\\node_modules' ]
+936 info linkStuff htmlparser@1.7.6
+937 verbose linkBins htmlparser@1.7.6
+938 verbose linkMans htmlparser@1.7.6
+939 verbose rebuildBundles htmlparser@1.7.6
+940 info install htmlparser@1.7.6
+941 info postinstall htmlparser@1.7.6
+942 info contextify@0.1.4 Failed to exec install script
+943 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify unbuild
+944 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules\contextify\package.json
+945 info preuninstall contextify@0.1.4
+946 info uninstall contextify@0.1.4
+947 verbose false,C:\Users\Mark\Documents\GitHub\madmin\node_modules,C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\node_modules unbuild contextify@0.1.4
+948 info postuninstall contextify@0.1.4
+949 verbose about to build C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery
+950 info C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery unbuild
+951 verbose from cache C:\Users\Mark\Documents\GitHub\madmin\node_modules\jquery\package.json
+952 info preuninstall jquery@1.8.3
+953 info uninstall jquery@1.8.3
+954 verbose true,C:\Users\Mark\Documents\GitHub\madmin\node_modules,C:\Users\Mark\Documents\GitHub\madmin\node_modules unbuild jquery@1.8.3
+955 info postuninstall jquery@1.8.3
+956 http 304 https://registry.npmjs.org/cssstyle
+957 silly registry.get cb [ 304,
+957 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+957 silly registry.get     etag: '"92KQG7JCYONT294YZDZUY4HE8"',
+957 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:13 GMT',
+957 silly registry.get     'content-length': '0' } ]
+958 verbose etag cssstyle from cache
+959 silly addNameRange number 2 { name: 'cssstyle', range: '>=0.2.3', hasData: true }
+960 silly addNameRange versions [ 'cssstyle', [ '0.1.0', '0.2.0', '0.2.1', '0.2.2', '0.2.3' ] ]
+961 verbose addNamed [ 'cssstyle', '0.2.3' ]
+962 verbose addNamed [ '0.2.3', '0.2.3' ]
+963 silly lockFile 8a9b7d6a-cssstyle-0-2-3 cssstyle@0.2.3
+964 verbose lock cssstyle@0.2.3 C:\Users\Mark\AppData\Roaming\npm-cache\8a9b7d6a-cssstyle-0-2-3.lock
+965 verbose read json C:\Users\Mark\AppData\Roaming\npm-cache\cssstyle\0.2.3\package\package.json
+966 silly lockFile 8a9b7d6a-cssstyle-0-2-3 cssstyle@0.2.3
+967 silly lockFile 8a9b7d6a-cssstyle-0-2-3 cssstyle@0.2.3
+968 silly lockFile 76808a6b-cssstyle-0-2-3 cssstyle@>=0.2.3
+969 silly lockFile 76808a6b-cssstyle-0-2-3 cssstyle@>=0.2.3
+970 http 304 https://registry.npmjs.org/request
+971 silly registry.get cb [ 304,
+971 silly registry.get   { server: 'CouchDB/1.2.1 (Erlang OTP/R15B)',
+971 silly registry.get     etag: '"3PUB8MOMHWDN2TWDE7K402DCM"',
+971 silly registry.get     date: 'Thu, 14 Feb 2013 21:24:13 GMT',
+971 silly registry.get     'content-length': '0' } ]
+972 verbose etag request from cache
+973 error contextify@0.1.4 install: `node-gyp rebuild`
+973 error `cmd "/c" "node-gyp rebuild"` failed with 1
+974 error Failed at the contextify@0.1.4 install script.
+974 error This is most likely a problem with the contextify package,
+974 error not with npm itself.
+974 error Tell the author that this fails on your system:
+974 error     node-gyp rebuild
+974 error You can get their info via:
+974 error     npm owner ls contextify
+974 error There is likely additional logging output above.
+975 error System Windows_NT 6.2.9200
+976 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+977 error cwd C:\Users\Mark\Documents\GitHub\madmin
+978 error node -v v0.8.19
+979 error npm -v 1.2.10
+980 error code ELIFECYCLE
+981 verbose exit [ 1, true ]
