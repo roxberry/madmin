@@ -1,5 +1,6 @@
 0 info it worked if it ends with ok
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
 1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
 1 verbose cli   'install' ]
@@ -1394,6 +1395,8 @@
 980 error code ELIFECYCLE
 981 verbose exit [ 1, true ]
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
 1 verbose cli [ '/Volumes/Data/Users/roxberry/.nvm/v0.10.1/bin/node',
 1 verbose cli   '/Volumes/Data/Users/roxberry/.nvm/v0.10.1/bin/npm',
 1 verbose cli   'install',
@@ -1454,4 +1457,7 @@
 32 error npm -v 1.2.15
 33 error code E404
 34 verbose exit [ 1, true ]
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5

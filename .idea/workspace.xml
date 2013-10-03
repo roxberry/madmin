@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="54110d66-c51d-41db-8d2e-a9a92a37167f" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/madmin.iml" />
@@ -14,6 +15,8 @@
     <ignored path="madmin.iws" />
     <ignored path=".idea/workspace.xml" />
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <list default="true" id="1587c75a-f593-4460-8a77-6dca642553f7" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
@@ -33,6 +36,9 @@
     <file path="/layout.jade" changelist="1587c75a-f593-4460-8a77-6dca642553f7" time="1366851246254" ignored="false" />
     <file path="$PROJECT_DIR$/../kata-expressjs/views/index.jade" changelist="1587c75a-f593-4460-8a77-6dca642553f7" time="1366852036067" ignored="false" />
     <file path="/index.jade" changelist="1587c75a-f593-4460-8a77-6dca642553f7" time="1366852035572" ignored="false" />
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +58,12 @@
     <favorites_list name="madmin" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="SYNC_SETTING" value="DONT" />
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
@@ -133,6 +142,9 @@
     </commandsHistory>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -142,12 +154,15 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="82" />
     <option name="y" value="-11" />
     <option name="width" value="1849" />
     <option name="height" value="1102" />
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -180,6 +195,9 @@
         </selected-state>
       </profile-state>
     </entry>
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -201,7 +219,11 @@
       <showMembers />
       <showModules />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <showLibraryContents />
+=======
+      <showLibraryContents ProjectPane="true" />
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
 =======
       <showLibraryContents ProjectPane="true" />
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
@@ -237,6 +259,7 @@
   </component>
   <component name="PropertiesComponent">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="options.splitter.main.proportions" value="0.31583333" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
@@ -248,6 +271,8 @@
   </component>
   <component name="RunManager" selected="Node.js.Madmin">
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
@@ -271,6 +296,9 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
@@ -280,6 +308,7 @@
       <option name="testName" />
       <method />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
@@ -297,6 +326,8 @@
     </configuration>
 =======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
@@ -304,6 +335,7 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
@@ -315,6 +347,8 @@
     <configuration default="false" name="Madmin" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
       <browser start="false" url="" with-js-debugger="false" />
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/v0.8.16/bin/node" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -326,11 +360,15 @@
       <method />
     </configuration>
     <configuration default="false" name="madmin" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Madmin" />
@@ -339,6 +377,8 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.madmin" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.specrunner.html" />
@@ -351,6 +391,9 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -370,6 +413,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
 <<<<<<< HEAD
       <changelist id="54110d66-c51d-41db-8d2e-a9a92a37167f" name="Default" comment="" />
       <created>1380486367710</created>
@@ -399,6 +443,8 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
       <changelist id="1587c75a-f593-4460-8a77-6dca642553f7" name="Default" comment="" />
       <created>1359836835407</created>
       <updated>1359836835407</updated>
@@ -448,6 +494,9 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     </layout>
   </component>
@@ -456,10 +505,13 @@
   </component>
   <component name="VcsManagerConfiguration">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="true" />
@@ -512,13 +564,19 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   <component name="XSLT-Support.FileAssociations.UIState">
     <PATH>
       <PATH_ELEMENT>
@@ -656,6 +714,9 @@
       </state>
     </states>
   </component>
+<<<<<<< HEAD
+>>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
+=======
 >>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
 </project>
 
