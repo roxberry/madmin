@@ -42,6 +42,7 @@ define(['jquery', 'module'], function($, module) {
             $.ajax({
               url: serviceURL + '/admin/' + json.id,
               data: jsonData,
+              data: jsonData,
               dataType: 'json',
               contentType: 'application/json',
               type: 'POST'

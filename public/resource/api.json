@@ -1605,6 +1605,33 @@
       "error": {},
       "response": "result",
       "delay": 1000
+    },
+    {
+      "id": "1381185091467",
+      "path": "/gen2/meta",
+      "method": "POST",
+      "summary": "",
+      "parameters": [],
+      "result": {
+        "workspaces": [
+          {
+            "WorkspaceName": "Workspace 1",
+            "BOEs": [
+              {
+                "boeTitle": "BOE 1",
+                "id": "1"
+              },
+              {
+                "boeTitle": "BOE 2",
+                "id": "2"
+              }
+            ]
+          }
+        ]
+      },
+      "error": {},
+      "response": "result",
+      "delay": 1000
     }
   ]
 }

@@ -4,15 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
-<<<<<<< HEAD
+    <orderEntry type="library" name="Node.js v0.10.1 Core Modules" level="application" />
     <orderEntry type="library" name="Node.js Dependencies for madmin" level="project" />
-=======
-    <orderEntry type="library" name="Node.js v0.10.1 Core Modules" level="application" />
->>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
-=======
-    <orderEntry type="library" name="Node.js v0.10.1 Core Modules" level="application" />
->>>>>>> 4cf4aca4b8c97a34683408d5430a0f415b1643d5
   </component>
 </module>
 
