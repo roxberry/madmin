@@ -30,9 +30,14 @@ function addPathFromRoute(route) {
     logger.info('adding ' + method + ': ' + route.path);
     // add route to application.
     app[method](route.path, function(req, res, next) {
+
       responseDelay = setTimeout( function() {
         clearTimeout(responseDelay);
-        res.send(JSON.stringify( ( route.response === 'result' ) ? route.result : route.error ) );
+
+          //Added for REST client mapping that requires specific content type header
+          res.setHeader('Content-Type', 'application/json');
+
+          res.end(JSON.stringify( ( route.response === 'result' ) ? route.result : route.error ) );
       }, route.delay);
     });
     return true;
